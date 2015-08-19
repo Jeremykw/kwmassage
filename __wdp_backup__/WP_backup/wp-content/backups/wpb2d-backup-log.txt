@@ -1,0 +1,91 @@
+12:02:37: Backup started on Wednesday August 5, 2015.
+12:02:37: Your time limit is 30 seconds and your memory limit is 64M
+12:09:48: Starting SQL backup.
+12:09:48: Processed table 'wp_commentmeta'.
+12:09:48: Processed table 'wp_comments'.
+12:09:48: Processed table 'wp_itsec_lockouts'.
+12:09:53: Processed table 'wp_itsec_log'.
+12:09:54: Processed table 'wp_itsec_temp'.
+12:09:54: Processed table 'wp_links'.
+12:09:54: Processed table 'wp_options'.
+12:09:54: Processed table 'wp_postmeta'.
+12:09:54: Processed table 'wp_posts'.
+12:09:54: Processed table 'wp_term_relationships'.
+12:09:54: Processed table 'wp_term_taxonomy'.
+12:09:54: Processed table 'wp_terms'.
+12:09:54: Processed table 'wp_usermeta'.
+12:09:54: Processed table 'wp_users'.
+12:09:54: Processed table 'wp_wpb2d_excluded_files'.
+12:09:54: Processed table 'wp_wpb2d_options'.
+12:09:54: Processed table 'wp_wpb2d_processed_dbtables'.
+12:09:54: Processed table 'wp_wpb2d_processed_files'.
+12:09:54: SQL backup complete. Starting file backup.
+12:10:00: Processed 8 files. Approximately 1% complete.
+12:10:06: Processed 45 files. Approximately 2% complete.
+12:10:12: Processed 65 files. Approximately 3% complete.
+12:10:18: Processed 143 files. Approximately 6% complete.
+12:10:24: Processed 162 files. Approximately 7% complete.
+12:10:30: Processed 201 files. Approximately 9% complete.
+12:10:36: Processed 217 files. Approximately 10% complete.
+12:10:42: Processed 229 files.
+12:10:48: Processed 242 files. Approximately 11% complete.
+12:10:54: Processed 255 files. Approximately 12% complete.
+12:11:00: Processed 293 files. Approximately 13% complete.
+12:11:07: Processed 321 files. Approximately 15% complete.
+12:11:14: Processed 338 files.
+12:11:20: Processed 353 files. Approximately 16% complete.
+12:11:26: Processed 362 files.
+12:11:33: Processed 379 files. Approximately 17% complete.
+12:11:40: Processed 396 files. Approximately 18% complete.
+12:11:47: Processed 430 files. Approximately 20% complete.
+12:11:54: Processed 502 files. Approximately 23% complete.
+12:12:01: Processed 533 files. Approximately 24% complete.
+12:12:07: Processed 633 files. Approximately 29% complete.
+12:12:13: Processed 684 files. Approximately 31% complete.
+12:12:19: Processed 696 files. Approximately 32% complete.
+12:12:26: Processed 781 files. Approximately 35% complete.
+12:12:32: Processed 815 files. Approximately 37% complete.
+12:12:39: Processed 861 files. Approximately 39% complete.
+12:12:46: Processed 937 files. Approximately 43% complete.
+12:12:53: Processed 967 files. Approximately 44% complete.
+12:13:00: Processed 1007 files. Approximately 46% complete.
+12:13:06: Processed 1036 files. Approximately 47% complete.
+12:13:12: Processed 1039 files.
+Uploaded Files:[{"file":"kwma2903_latest-backup.sql","mtime":1438776594}]
+12:13:18: Processed 1165 files. Approximately 53% complete.
+12:13:28: Processed 1190 files. Approximately 54% complete.
+Uploaded Files:[{"file":"readme.html","mtime":1438690832}]
+12:13:34: Processed 1230 files. Approximately 56% complete.
+Uploaded Files:[{"file":"post.php","mtime":1438690832},{"file":"class-wp-upgrader.php","mtime":1438690832},{"file":"update-core.php","mtime":1438690825}]
+12:13:41: Processed 1335 files. Approximately 61% complete.
+Uploaded Files:[{"file":"post.php","mtime":1438690832}]
+12:13:48: Processed 1492 files. Approximately 68% complete.
+Uploaded Files:[{"file":"nav-menu.js","mtime":1438690832},{"file":"nav-menu.min.js","mtime":1438690832}]
+12:13:55: Processed 1515 files. Approximately 69% complete.
+12:14:01: Processed 1625 files. Approximately 74% complete.
+Uploaded Files:[{"file":"about.php","mtime":1438690832},{"file":"error_log","mtime":1438637684}]
+12:14:07: Processed 1648 files. Approximately 75% complete.
+Uploaded Files:[{"file":".htaccess","mtime":1438732461},{"file":"post.php","mtime":1438690832}]
+12:14:14: Processed 1693 files. Approximately 77% complete.
+Uploaded Files:[{"file":"theme.php","mtime":1438690832},{"file":"class-wp-embed.php","mtime":1438690832},{"file":"default-widgets.php","mtime":1438690832},{"file":"wp-db.php","mtime":1438690832}]
+12:14:20: Processed 1738 files. Approximately 79% complete.
+Uploaded Files:[{"file":"l10n.php","mtime":1438690832}]
+12:14:26: Processed 1776 files. Approximately 81% complete.
+12:14:32: Processed 1881 files. Approximately 85% complete.
+12:14:39: Processed 1894 files. Approximately 86% complete.
+12:14:45: Processed 1905 files.
+12:14:51: Processed 1914 files. Approximately 87% complete.
+12:14:58: Processed 1925 files.
+12:15:05: Processed 1939 files. Approximately 88% complete.
+12:15:12: Processed 1961 files. Approximately 89% complete.
+12:15:19: Processed 1992 files. Approximately 90% complete.
+Uploaded Files:[{"file":"formatting.php","mtime":1438690832}]
+12:15:26: Processed 2017 files. Approximately 92% complete.
+12:15:32: Processed 2094 files. Approximately 95% complete.
+Uploaded Files:[{"file":"shortcodes.php","mtime":1438690832},{"file":"class-wp-customize-widgets.php","mtime":1438690832}]
+12:15:39: Processed 2171 files. Approximately 99% complete.
+12:15:45: Processed 2199 files.
+Uploaded Files:[{"file":"version.php","mtime":1438690832}]
+12:15:45: Backup complete.
+12:15:45: A total of 2203 files were processed.
+12:15:45: A total of 22MB of memory was used to complete this backup.

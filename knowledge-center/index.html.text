@@ -7,4 +7,4 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 ---
 &nbsp;
 
-Information about <a title="Welcome" href="{{site.url}}/about/welcome">registered massage therapy </a>and <a title="About" href="{{site.url}}/about">massage therapists </a>in<a title="Contact" href="{{site.url}}/contact"> Kitchener Waterloo area</a>. Categories and topics include General Massage Therapy, Stretching and <a title="Rock Climbing as a Lifestyle" href="{{site.url}}/about/rock-climbing-as-a-lifestyle">Rock Climbing</a>.
+Information about <a title="Welcome" href="{{site.baseurl}}/about/welcome">registered massage therapy </a>and <a title="About" href="{{site.baseurl}}/about">massage therapists </a>in<a title="Contact" href="{{site.baseurl}}/contact"> Kitchener Waterloo area</a>. Categories and topics include General Massage Therapy, Stretching and <a title="Rock Climbing as a Lifestyle" href="{{site.baseurl}}/about/rock-climbing-as-a-lifestyle">Rock Climbing</a>.

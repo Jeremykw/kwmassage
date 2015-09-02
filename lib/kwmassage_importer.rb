@@ -22,8 +22,13 @@ def meta_values(item, file)
 end
 
 def slug_value(item, file)
-  link = item.css("link").text
-  
+  if link = item.css("link").text
+    category = /\/(.*)\//.match(link)
+    if category
+      category.to_s.gsub(/\//, "")
+      file.puts "category: #{category}"
+    end
+  end
 end
 
 items.each do |item|

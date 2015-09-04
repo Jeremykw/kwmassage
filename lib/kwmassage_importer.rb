@@ -23,19 +23,23 @@ end
 
 def slug_value(item, file)
   if link = item.css("link").text
-    category = /\/(.*)\//.match(link)
+    category = /\/(.*?)\//.match(link)
     if category
-      category.to_s.gsub(/\//, "")
-      file.puts "category: #{category}"
+      cat = category.to_s.gsub(/\//, "")
+      file.puts "category: #{cat}"
     end
+    slug = link.gsub("#{category}", "")
+    slug_link = slug.gsub("/", "")
+    file.puts "slug: #{slug_link}"
   end
 end
 
 items.each do |item|
   if item.css("wp|post_type").text == "post" || item.css("wp|post_type").text == "page"
     wp_date = "#{item.css("wp|post_date").text}"
-    new_post_file = File.new("../_posts/#{date_to_jekyll(wp_date)}-#{item.css("wp|post_name").text}.text", "w")
-    
+    new_post_file = File.new("../_posts/#{date_to_jekyll(wp_date)}-#{item.css("wp|post_name").text}", "w")
+
+    new_post_file.puts "---"    
     new_post_file.puts "layout: #{item.css("wp|post_type").text}"
     new_post_file.puts "title: \"#{item.at_css("title").text}\""
     slug_value(item, new_post_file)

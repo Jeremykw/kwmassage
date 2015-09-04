@@ -35,14 +35,15 @@ def slug_value(item, file)
 end
 
 items.each do |item|
-  if item.css("wp|post_type").text == "post" || item.css("wp|post_type").text == "page"
+  if item.css("wp|post_type").text == "post"
     wp_date = "#{item.css("wp|post_date").text}"
-    new_post_file = File.new("../_posts/#{date_to_jekyll(wp_date)}-#{item.css("wp|post_name").text}", "w")
+    new_post_file = File.new("../_posts/#{date_to_jekyll(wp_date)}-#{item.css("wp|post_name").text}.text", "w")
 
     new_post_file.puts "---"    
     new_post_file.puts "layout: #{item.css("wp|post_type").text}"
     new_post_file.puts "title: \"#{item.at_css("title").text}\""
     slug_value(item, new_post_file)
+    # new_post_file.puts "permalink: /:categories/:title/"
     new_post_file.puts "post_id: #{item.css("wp|post_id").text}"
     meta_values(item, new_post_file)
     new_post_file.puts "---"

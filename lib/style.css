@@ -237,7 +237,7 @@ color: #77786F; font-size: 13px;line-height:29px; font-style: italic; background
 #submenu ul li { background:url(/assets/images/bg_listlink.gif) no-repeat; display:block; line-height:40px; font-size:13px; margin:0; padding:0; }
 #submenu ul li a { display:block; background:url(/assets/images/icon_graysend.gif) no-repeat 11px 13px; color:#3377b8; line-height:40px; text-decoration:underline; margin:0; padding:0 0 0 37px; }
 #submenu ul li a:hover,#submenu ul li.current_page_item a { background:url(/assets/images/icon_send.gif) no-repeat 11px 13px; color:#b2b1a2; text-decoration:none; } */
-#rightcol img.imgbox { background:url(/assets/images/img_bg.gif) no-repeat; float:left; margin:0 20px 0 0; padding:10px 10px 20px 10px; }
+#rightcol img.imgbox { float:left; margin:0 20px 0 0; padding:10px 10px 20px 10px; }
 #rightcol .shadowbox { background:url(/assets/images/bg_formbox.png) no-repeat; width:540px; height:auto; float:left; margin:0; padding:20px 0 0 0; }
 #rightcol h2 { font-size:20px; color:#3377b8; margin:0; padding:0 0 15px 0; }
 #rightcol ul.blue { display:block; padding:0 0 10px 0; }

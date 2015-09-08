@@ -4,31 +4,25 @@
   <div id="formbox">
     <h1>Contact Form</h1>
     <form action="{{site.baseurl}}/#wpcf7-f431-p75-o1" method="post" novalidate="novalidate">
-      <p>Your Name (required)<br>
-        <span class="textfield" >
-          <input type="text" name="your-name" value="" size="40" class="input" aria-required="true" aria-invalid="false">
-        </span>
-      </p>
-      <p>Your Email (required)<br>
-        <span class="textfield">
-          <input type="email" name="your-email" value="" size="40" class="input" aria-required="true" aria-invalid="false">
-        </span>
-      </p>
-      <p>Subject<br>
-        <span class="textfield">
-          <input type="text" name="your-subject" value="" size="40" class="input" aria-invalid="false">
-        </span>
-      </p>
-      <p>Your Message<br>
-        <span class="textarea">
-          <textarea name="your-message" cols="40" rows="10" class="input" aria-invalid="false"></textarea>
-        </span>
-      </p>
-      <p>
+      <div class="textfield" >
+        <span>Your Name (required)</span>
+        <input type="text" name="your-name" value="" size="40" class="input" aria-required="true" aria-invalid="false">
+      </div><br>
+      <div  class="textfield">
+        <span>Subject</span>
+        <input type="text" name="your-subject" value="" size="40" class="input" aria-invalid="false">
+      </div>
+      <div  class="textfield">
+        <span>Your Email (required)</span>
+        <input type="email" name="your-email" value="" size="40" class="input" aria-required="true" aria-invalid="false">
+      </div>
+      <div  class="textarea">
+        <span>Your Message</span>
+        <textarea name="your-message" cols="40" rows="10" class="input" aria-invalid="false"></textarea>
         <input type="submit" value="Send" class="send">
-        <img class="ajax-loader" src="./KWmassage _ welcome_page_files/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;">
-      </p>
+      <img class="ajax-loader" src="./KWmassage _ welcome_page_files/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;">
       <div class="clearbutton"></div>
+      </div>
     </form>
   </div>
 

@@ -92,7 +92,7 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 
 #rightcol { width:540px; height:auto; float:left; margin:0; padding:90px 33px 20px 19px; }
 #rightcol h1 { font-size:25px; color:#3377b8; margin:0; padding:0 0 15px 0; }
-#rightcol p { font-size:11px; line-height:20px; text-align:justify; color:#494a42; margin:0; padding:0 0 28px 0; }
+#rightcol p { font-size:13px; line-height:20px; text-align:justify; color:#494a42; margin:0; padding:0 0 28px 0; }
 #rightcol p span { display:block; }
 #rightcol p a { color:#3377b8; text-decoration:underline; }
 #rightcol p a:hover { text-decoration:none; }
@@ -117,17 +117,16 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 
 #formbox { background:url(/assets/images/bg_formbox.png) no-repeat; width:540px; height:auto; float:left; margin:0; padding:30px 0 10px 0; }
 #formbox h1 { font-size:25px; color:#3377b8; margin:0; padding:0 0 12px 5px; }
-#formbox .textfield { width:253px; height:auto; float:left; margin: 0 5px 10px 5px; padding:0; }
-#formbox p { border: 1px solid black; }
-#formbox .textfield span, #formbox .textarea span { font-size:13px; font-style:italic; color:#77786f; margin:0; padding:0 0 5px 0; }
-#formbox .textfield input { background:url(/assets/images/bg_tfw.gif) no-repeat; width:243px; height:27px; float:left; border:none; line-height:27px; margin:0; padding:4px 5px; }
+#formbox .textfield { width:253px; height:auto; float:left; margin: 0 50px 10px 5px; padding:0; display: block;}
+#formbox .textfield span, #formbox .textarea span { display: block; font-size:13px; font-style:italic; color:#77786f; margin:0; padding:0 0 5px 0; display: block;}
+#formbox .textfield input { display: block; background:url(/assets/images/bg_tfw.gif) no-repeat; width:243px; height:auto; float:left; border:none; line-height:27px; margin:0; padding:4px 5px; }
 #formbox .textfield input:hover { background:url(/assets/images/bg_tfw2.gif) no-repeat; }
 #formbox .textfield .list { width:253px; height:35px; float:left; margin:0; padding:0; }
 #formbox .textfield .list select { padding:0 0 0 16px; }
 #formbox .textarea { width:526px; height:auto; float:left; margin:0 0 20px 0; padding:0 0 0 5px; }
 #formbox .textarea textarea { background:url(/assets/images/bg_textarea.gif) no-repeat; width:516px; height:105px; border:none; float:left; margin:0; padding:5px; }
-#formbox .send { background:url(/assets/images/icon_send.gif) no-repeat left 3px; width:110px; height:auto; float:right; font-size:14px; font-weight:bold; text-decoration:underline; color:#494a42; border:none; cursor:pointer; margin:0 10px 0 20px; padding:0 0 0 20px; }
-#formbox .clearbutton { background:url(/assets/images/icon_clear.gif) no-repeat left 3px; width:70px; height:auto; float:right; font-size:14px; font-weight:bold; text-decoration:underline; color:#3277b8; border:none; cursor:pointer; margin:0; padding:0 0 0 20px; }
+#formbox .send { background:url(/assets/images/icon_send.gif) no-repeat left 3px; width:110px; height:18px; float:left; font-size:14px; font-weight:bold; text-decoration:underline; color:#494a42; border:none; cursor:pointer; margin:0 10px 0 0px; padding:0 0 0 20px; }
+#formbox .clearbutton { background:url(/assets/images/icon_clear.gif) no-repeat left 3px; width:70px; height:auto; float:left; font-size:14px; font-weight:bold; text-decoration:underline; color:#3277b8; border:none; cursor:pointer; margin:0; padding:0 0 0 20px; }
 #formbox .send:hover, #formbox .clearbutton:hover { text-decoration:none; }
 
 /* footer */
@@ -170,33 +169,33 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 
 /* New Code */
 
-.main-navigation ul.nav-menu,
+/*.main-navigation ul.nav-menu,
 .main-navigation div.nav-menu > ul {
 	border-bottom: 1px solid #ededed;
 	border-top: 1px solid #ededed;
 	display: inline-block !important;
 	text-align: left;
 	width: 100%;
-}
+}*/
 .main-navigation ul {
 	margin: 0;
 	text-indent: 0;
 }
-.main-navigation li a,
+/*.main-navigation li a,
 .main-navigation li {
 	display: inline-block;
 	text-decoration: none;
-}
+}*/
 .ie7 .main-navigation li a,
 .ie7 .main-navigation li {
 	display: inline;
 }
-.main-navigation li a {
+/*.main-navigation li a {
 	border-bottom: 0;
 	color: #6a6a6a;
 	line-height: 3.692307692;
 	text-transform: uppercase;
-}
+}*/
 .main-navigation li a:hover {
 	color: #000;
 }
@@ -233,17 +232,7 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 	padding: 8px 10px;
 	width: 180px;
 }
-.main-navigation li ul li a:hover {
-	background: #e3e3e3;
-	color: #444;
-}
-.main-navigation .current-menu-item > a,
-.main-navigation .current-menu-ancestor > a,
-.main-navigation .current_page_item > a,
-.main-navigation .current_page_ancestor > a {
-	color: #636363;
-	font-weight: bold;
-}
+
 
 /* New Code */
 

@@ -7,12 +7,26 @@ post_id: 376
 excerpt_separator: Rock climbing and how to treat climbing injuries by massage therapist Kitchener
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy, sports massage, rock climbing injury, rock climbing
 ---
-<a title="Rock Climbing as a Lifestyle" href="{{site.url}}/about/rock-climbing-as-a-lifestyle"><b>Rock Climbing as a Lifestyle </b></a>
+{% for post in site.posts %}
+	{% if post.category == "rock_climbing" or post.post_id == 318 %}
+	  <h1>{{ post.title }}</h1>
+	  <p class="author">
+	    <span class="date">{{ post.date | date_to_string }}</span>
+	  </p>
+	  <div class="content">
+	  	<p>{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
+	  </div>
+  {% endif %}
+{% endfor %}
 
-<a title="Climber’s Elbow" href="{{site.url}}/rock_climbing/climbers-elbow-2"><b>Climber’s Elbow </b></a>
-
-<a title="Rock Climbers and Our Fingers" href="{{site.url}}/rock_climbing/206"><b>Rock Climbers and Our Fingers </b></a>
-
-<a title="Kitchener Massage Therapist makes another Rock Climbing Trip" href="{{site.url}}/rock_climbing/kitchener-massage-therapist-makes-another-rock-climbing-trip"><b>Kitchener Massage Therapist makes another Rock Climbing Trip</b></a><b></b>
-
-<a title="Aerobic vs. Anaerobic Training for Rock Climbing" href="{{site.url}}/generalmassagetherapy/aerobic-vs-anaerobic-training-for-rock-climbing"><b>Aerobic vs. Anaerobic Training for Rock Climbing </b></a>
+{% for page in site.pages %}
+	{% if page.post_id == 316 %}
+	  <h1>{{ page.title }}</h1>
+	  <!-- <p class="author">
+	    <span class="date">{{ page.date | date_to_string }}</span>
+	  </p> -->
+	  <div class="content">
+	  	<p>I started rock climbing in 1997 when I was 21 years old. I started <a href="http://www.grandriverrocks.com/Pages/Home.aspx">climbing in the gym </a>before I ventured outside top-roping and sport climbing a year later. Now I’m a dad, a husband, and a <a href="{{site.url}}/">massage therapist, </a>but I still love to climb and I plan to climb for the rest of my life....<a title="Read More" href="{{ post.url }}">read more...</a></p>
+	  </div>
+  {% endif %}
+{% endfor %}

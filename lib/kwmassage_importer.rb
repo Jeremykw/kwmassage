@@ -42,12 +42,13 @@ items.each do |item|
     new_post_file.puts "---"    
     new_post_file.puts "layout: #{item.css("wp|post_type").text}"
     new_post_file.puts "title: \"#{item.at_css("title").text}\""
+    new_post_file.puts "date: #{wp_date}"
     slug_value(item, new_post_file)
     # new_post_file.puts "permalink: /:categories/:title/"
     new_post_file.puts "post_id: #{item.css("wp|post_id").text}"
     meta_values(item, new_post_file)
     new_post_file.puts "---"
-    new_post_file.puts "#{item.at_css("content|encoded").text}"
+    new_post_file.puts "<p>#{item.at_css("content|encoded").text}</p>"
     
     new_post_file.close
   end

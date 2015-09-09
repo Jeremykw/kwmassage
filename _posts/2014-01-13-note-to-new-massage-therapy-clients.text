@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Note to New Massage Therapy Clients "
+date: 2014-01-13 14:38:17
 category: generalmassagetherapy
 slug: note-to-new-massage-therapy-clients
 post_id: 221
 ---
-When you come in for your first <a href="{{site.url}}/clinic-information">massage therapy appointment </a>at <a href="{{site.url}}/">KW massage </a>with me, a few things need to be done in preparation for your <a href="{{site.url}}/">massage therapy treatment</a>.
+<p>When you come in for your first <a href="{{site.url}}/clinic-information">massage therapy appointment </a>at <a href="{{site.url}}/">KW massage </a>with me, a few things need to be done in preparation for your <a href="{{site.url}}/">massage therapy treatment</a>.
 
 First, I do not charge an initial consultation fee. What you pay depends on the length of treatment you request when you book the appointment. I do not charge any additional fees.
 
@@ -35,4 +36,4 @@ When your treatment is complete, I will let you know, then go wash my hands agai
 After the massage treatment, it is also time to handle the payment and rebooking. I don’t have credit or debit machines so cash payment is necessary.
 
 If you have extended health care benefits, on my receipt you will find my <a href="{{site.url}}/generalmassagetherapy/governance-of-massage-therapy">registration number as a registered massage therapist</a>.  When you send your receipt to your health care company for reimbursement, this registration is what they need for approval.
-<div></div>
+<div></div></p>

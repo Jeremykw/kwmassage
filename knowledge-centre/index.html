@@ -9,28 +9,31 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 <h1>Knowledge Centre</h1>
 
 <p>Information about <a title="Welcome" href="{{site.url}}/about/welcome">registered massage therapy </a>and <a title="About" href="{{site.url}}/about">massage therapists </a>in<a title="Contact" href="{{site.url}}/contact"> Kitchener Waterloo area</a>. Categories and topics include General Massage Therapy, Stretching and <a title="Rock Climbing as a Lifestyle" href="{{site.url}}/about/rock-climbing-as-a-lifestyle">Rock Climbing</a>.</p>
+<div id="formbox"></div>
 
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <h1>{{ post.title }}</h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_string }}</span>
   </p>
   <div class="content">
-    {{ post.excerpt_separator }}
+  	<p>{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
   </div>
 {% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
+<p>
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
-    <span class="previous">Previous</span>
+    <b class="previous">Previous</b>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <b class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</b>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+    <b class="next ">Next</b>
   {% endif %}
+</p>
 </div>

@@ -167,6 +167,13 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 #submenu ul li a { display:block; background:url(/assets/images/icon_graysend.gif) no-repeat 11px 13px; color:#3377b8; line-height:40px; text-decoration:underline; margin:0; padding:0 0 0 37px; }
 #submenu ul li a:hover { background:url(/assets/images/icon_send.gif) no-repeat 11px 13px; color:#b2b1a2; text-decoration:none; }
 
+/* Paginated Post */
+.pagination { float: right }
+.next, .previous { text-decoration: underline }
+.date {font-size: 9px}
+
+/* Paginated Post */
+
 /* New Code */
 
 /*.main-navigation ul.nav-menu,

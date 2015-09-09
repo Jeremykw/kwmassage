@@ -3,8 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>{% if page.title %}{{ "KWmassage | "}}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt_separator %}{{ page.excerpt_separator | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if page.meta_keywords%}{{page.meta_keywords}}{% endif %}">
+  <meta name="author" content="Jeremy Bissonnette, Registered Massage Therapist" >
+
+  <link rel="pingback" href="http://www.kwmassage.com/xmlrpc.php">
 
   <link rel="stylesheet" href="{{ "/css/style-new.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
@@ -31,55 +35,6 @@
 
 	<script type="text/javascript">
   $(document).ready(function() {
-
- /* $('#txt1').focus(function() {
-
-   if(this.value=='Name')
-    this.value='';
-  });
-
-  $('#txt1').blur(function() {
-
-   if(this.value=='')
-    this.value='Name';
-  });
-
-  $('#txt2').focus(function() {
-
-   if(this.value=='Email')
-    this.value='';
-  });
-
-  $('#txt2').blur(function() {
-
-   if(this.value=='')
-    this.value='Email';
-  });
-
-  $('#txt3').focus(function() {
-
-   if(this.value=='Contact Number')
-    this.value='';
-  });
-
-  $('#txt3').blur(function() {
-
-   if(this.value=='')
-    this.value='Contact Number';
-  });
-
-   $('#txt4').focus(function() {
-
-   if(this.value=='Your message')
-    this.value='';
-  });
-
-  $('#txt4').blur(function() {
-
-   if(this.value=='')
-    this.value='Your message';
-  });
-  */
 
   $('#clear').click(function() {
 

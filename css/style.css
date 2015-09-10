@@ -170,8 +170,7 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 /* Paginated Post */
 .pagination { float: right }
 .next, .previous { text-decoration: underline }
-.date {font-size: 9px}
-
+.date {font-size: 10px; font-style: italic; color: #ADB0B3;}
 /* Paginated Post */
 
 /* New Code */

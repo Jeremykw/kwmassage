@@ -9,12 +9,10 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 ---
 {% for post in site.posts %}
 	{% if post.category == "stretching" %}
-	  <h1>{{ post.title }}</h1>
-	  <p class="author">
-	    <span class="date">{{ post.date | date_to_string }}</span>
-	  </p>
-	  <div class="content">
-	  	<p>{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
-	  </div>
+	<p>
+		<h1>{{ post.title }}</h1>
+		<div class="date">{{ post.date | date_to_string }}</div>
+		{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
+	</p>
   {% endif %}
 {% endfor %}

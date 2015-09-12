@@ -12,10 +12,12 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 <div id="formbox"></div>
 
 {% for post in paginator.posts %}
-  <p>
-  <h1>{{ post.title }}</h1>
-    <div class="date">{{ post.date | date_to_string }}</div>
-   {{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
+  {% if post.layout != "redirect" %}  
+    <p>
+    <h1>{{ post.title }}</h1>
+      <div class="date">{{ post.date | date_to_string }}</div>
+     {{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
+  {% endif %}
 {% endfor %}
 
 <div class="pagination">

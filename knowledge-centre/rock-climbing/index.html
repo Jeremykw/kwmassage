@@ -8,13 +8,15 @@ excerpt_separator: Rock climbing and how to treat climbing injuries by massage t
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy, sports massage, rock climbing injury, rock climbing
 ---
 {% for post in site.posts %}
-	{% if post.category == "rock_climbing" or post.post_id == 318 %}
-	<p>
-		<h1>{{ post.title }}</h1>
-		<div class="date">{{ post.date | date_to_string }}</div>
-		{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
-	</p>
-  {% endif %}
+	{% if post.layout != "redirect" %}
+		{% if post.category == "rock_climbing" or post.post_id == 318 %}
+		<p>
+			<h1>{{ post.title }}</h1>
+			<div class="date">{{ post.date | date_to_string }}</div>
+			{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
+		</p>
+	  {% endif %}
+	{% endif %}
 {% endfor %}
 
 {% for page in site.pages %}

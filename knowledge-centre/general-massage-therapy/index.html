@@ -8,11 +8,13 @@ excerpt_separator: What is Deep Tissue Massage? Trigger Points and Trigger Point
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy 
 ---
 {% for post in site.posts %}
-	{% if post.category == "generalmassagetherapy" %}
-		<p>
-			<h1>{{ post.title }}</h1>
-			<div class="date">{{ post.date | date_to_string }}</div>
-			{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
-		</p>
-	{% endif %}
+    {% if post.layout != "redirect" %}
+  	{% if post.category == "generalmassagetherapy" %}
+  		<p>
+  			<h1>{{ post.title }}</h1>
+  			<div class="date">{{ post.date | date_to_string }}</div>
+  			{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
+  		</p>
+  	{% endif %}
+  {% endif %}
 {% endfor %}

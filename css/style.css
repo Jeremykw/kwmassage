@@ -64,7 +64,7 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 #contactbar a { color:#fff; }
 #contactbar a:hover { color:#3277b8; text-shadow:rgba(255, 255, 255, 0.2) 0px 1px 0px; }
 
-#navigation { background:url(/assets/images/bg_nav.png) no-repeat top center transparent; width:100%; height:60px; float:left; margin:37px 0 0 0; padding:0; clear:both;}
+#navigation { background:url(/assets/images/bg_nav.png) no-repeat top center transparent; width:100%; min-width: 990px ;height:60px; float:left; margin:37px 0 0 0; padding:0; clear:both;}
 #navigation ul {}
 #navigation ul li { float:left; font-size:14px; text-transform:uppercase; font-weight:bold; margin:0; padding:5px 9px 0 0; }
 #navigation ul li.last { padding:5px 0 0 0; margin:0 0 0 -1px; }
@@ -75,7 +75,7 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 /* container */
 
 #container { background:url(/assets/images/bg_container.jpg) no-repeat center bottom; width:100%; height:auto; float:left; margin:0; padding:0; }
-#container_top { background:url(/assets/images/bg_container_top.png) no-repeat center top; width:100%; height:auto; float:left; margin:0; padding:0; clear:both;}
+#container_top { background:url(/assets/images/bg_container_top.png) no-repeat center top; width:100%; min-width: 990px; height:auto; float:left; margin:0; padding:0; clear:both;}
 
 #leftcol { width:350px; height:auto; float:left; margin:0; padding:74px 20px 20px 27px; }
 #leftcol a.more {background:url(/assets/images/icon_arrow.png) no-repeat left center; font-size:14px; color:#3377b8; text-decoration:underline; margin:0 0 0 10px; padding:0 0 0 20px; }

@@ -74,8 +74,8 @@ body.change_bg_summer { background:url(/assets/images/bg_body_summer.jpg) no-rep
 
 /* container */
 
-#container { background:url(/assets/images/bg_container.jpg) no-repeat center bottom; width:100%; height:auto; float:left; margin:0; padding:0; }
-#container_top { background:url(/assets/images/bg_container_top.png) no-repeat center top; width:100%; min-width: 990px; height:auto; float:left; margin:0; padding:0; clear:both;}
+#container { background:url(/assets/images/bg_container.jpg) no-repeat center bottom; width:100%; min-width: 988px; height:auto; float:left; margin:0; padding:0; }
+#container_top { background:url(/assets/images/bg_container_top.png) no-repeat center top; width:100%; min-width: 988px; height:auto; float:left; margin:0; padding:0; clear:both;}
 
 #leftcol { width:350px; height:auto; float:left; margin:0; padding:74px 20px 20px 27px; }
 #leftcol a.more {background:url(/assets/images/icon_arrow.png) no-repeat left center; font-size:14px; color:#3377b8; text-decoration:underline; margin:0 0 0 10px; padding:0 0 0 20px; }

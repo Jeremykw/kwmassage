@@ -16,20 +16,20 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
     <p>
     <h1>{{ post.title }}</h1>
       <div class="date">{{ post.date | date_to_string }}</div>
-     {{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a></p>
+     {{ post.excerpt }} ...<a title="Read More" href="{{site.url}}{{ post.url }}">read more...</a></p>
   {% endif %}
 {% endfor %}
 
 <div class="pagination">
   <p>
     {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    <a href="{{site.url}}{{ paginator.previous_page_path }}" class="previous">Previous</a>
     {% else %}
     <b class="previous">Previous</b>
     {% endif %}
     <b class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</b>
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    <a href="{{site.url}}{{ paginator.next_page_path }}" class="next">Next</a>
     {% else %}
     <b class="next ">Next</b>
     {% endif %}

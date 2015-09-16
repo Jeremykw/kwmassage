@@ -1,4 +1,7 @@
 <head>
+  {% if site.baseurl == "http://jeremykw.github.io/kwmassage-stage" %}
+
+  {% endif %}
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +13,6 @@
 
   <link rel="pingback" href="http://www.kwmassage.com/xmlrpc.php">
 
-  <link rel="stylesheet" href="{{ "/css/style-new.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/form.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/css/colorbox.css" | prepend: site.baseurl }}">
@@ -18,7 +20,7 @@
 
 	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
 	<script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script>
-	<script type="text/javascript" src="http://www.kwmassage.com/wp-content/themes/KWMassage/js/custom-form-elements.js"></script>
+	<script type="text/javascript" src="{{site.baseurl}}/wp-content/themes/KWMassage/js/custom-form-elements.js"></script>
 	<style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 253px; opacity: 0; filter: alpha(opacity=0); z-index: 10; top: 15px; } .disabled { opacity: 0.5; filter: alpha(opacity=50); }</style>
 	<script type="text/javascript">
 		$(document).ready(function(){
@@ -47,7 +49,7 @@
 
 
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
 </head>
 

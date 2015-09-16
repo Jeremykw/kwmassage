@@ -13,7 +13,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
   		<p>
   			<h1>{{ post.title }}</h1>
   			<div class="date">{{ post.date | date_to_string }}</div>
-  			{{ post.excerpt }} ...<a title="Read More" href="{{ post.url }}">read more...</a>
+  			{{ post.excerpt }} ...<a title="Read More" href="{{site.url}}{{ post.url }}">read more...</a>
   		</p>
   	{% endif %}
   {% endif %}

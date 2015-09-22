@@ -8,41 +8,7 @@
 /* ------------------------------------------------------------------------------------------------------------------------------------
 ######################################################## RESET ########################################################################
 ------------------------------------------------------------------------------------------------------------------------------------ */
-@media (max-width: 849px) {
-	body { 
-		margin: 0; 
-		text-align: justify;
-		display: block;
-	}
-	h1 { font-size:1.5em; color: #3377b8; text-align: center; }
-	h2 { font-size:1.3em; color: #494a42; }
-	h3 { font-size:1.2em; color: #494a42;}
-	h4 { font-size:1.1em; color: #494a42;}
-	h5 { font-size:1.0em; color: #494a42;}
-	h6 { font-size:0.9em; color: #494a42;}
-	/*div { border: .1em solid black; }*/
 
-	#logo { 
-		width: 5em; 
-		float:left; 
-		margin-top: -1em; 
-		padding:0; }
-	#logo img {
-	    width: 100%;
-	    height: auto;
-	}
-	#tagline { display: none}
-	#contactbar { display: none;}
-	#navigation {display: none;}
-	#leftcol { display: none;}
-	#header { display: block; height: 6em; background-color: #3377b8; }
-}
-
-
-
-
-/* for desktop */
-@media only screen and (min-width: 850px) {
 /* for desktop */
 
 * {outline: none;}
@@ -320,4 +286,3 @@ small {
 	line-height: 1.5em;
 	}
 
-}

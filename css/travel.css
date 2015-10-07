@@ -37,13 +37,13 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 
 }
 
-.dark .top-links li > a { color: #EEE; }
+.dark .top-links li > a { color: #006cb8; }
 
 .dark .top-links li:hover { background-color: rgba(255,255,255,0.15); }
 
 .dark #top-social li { border-left: 0; }
 
-.dark #top-social li a { color: #EEE; }
+.dark #top-social li a { color: #006cb8; }
 
 .dark #header-wrap:not(.not-dark) #primary-menu.style-4 > ul > li:hover > a,
 .dark #header-wrap:not(.not-dark) #primary-menu.style-4 > ul > li.current > a { border-color: rgba(255,255,255,0.5); }
@@ -52,7 +52,7 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 
 .tabs.travel-organiser-tabs { margin: 0; }
 
-.travel-organiser-tabs ul.tab-nav { border-bottom: 4px solid #AC4147; }
+.travel-organiser-tabs ul.tab-nav { border-bottom: 4px solid #006cb8; }
 
 .travel-organiser-tabs ul.tab-nav li {
 	margin-left: 1px;
@@ -76,7 +76,7 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 
 .travel-organiser-tabs ul.tab-nav li.ui-tabs-active a {
 	top: 0;
-	background-color: #AC4147;
+	background-color: #006cb8;
 }
 
 .travel-organiser-tabs ul.tab-nav li .label { margin-left: 5px; }

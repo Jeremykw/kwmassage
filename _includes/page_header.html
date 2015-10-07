@@ -5,7 +5,7 @@
 
         <!-- Header
         ============================================= -->
-        <header id="header" class="transparent-header style-2" data-sticky-class="not-dark" data-responsive-class="not-dark">
+        <header id="header" class="transparent-header" data-sticky-class="not-dark" data-responsive-class="not-dark">
 
             <div id="header-wrap">
 
@@ -15,14 +15,14 @@
 
                     <!-- Logo
                     ============================================= -->
-                    <div id="logo" class="norightmargin norightpadding">
+                    <div id="logo">
                         <a href="index.html" class="standard-logo" data-dark-logo="assets/images/logo_kitchener_massage.png"><img src="assets/images/logo_kitchener_massage.png" alt="Kitchener Massage Therapist"></a>
                     </div>
                     <!-- #logo end -->
 
                     <!-- Primary Navigation
                     ============================================= -->
-                    <nav id="primary-menu" class="style-2 noleftmargin noleftpadding">
+                    <nav id="primary-menu" class="style-6">
 
                         <ul class="one-page-menu" >
                             <li><a href="{{site.baseurl}}/"><div>Home</div></a></li>
@@ -48,49 +48,130 @@
                                 </ul>
                             </li>
                         </ul>
-                    </nav><!-- #primary-menu end -->
-
+                    </nav>
+                    <!-- #primary-menu end -->
                 </div>
 
             </div>
 
         </header><!-- #header end -->
 
-        <section id="slider" class="slider-parallax" style="background: url('assets/images/bg_body_mountain.jpg'); backgroung-repeat: no-repeat; background-size: cover" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
-          <div class="container clearfix">
-            <div class="vertical-middle dark center">
-              <div class="nobottommargin center text-rotate" data-rotate="flipInX" class="hidden-xs hidden-sm hidden-xxs">
-                <img style="height: 100px;" src="assets/images/Kitchener_massage_logo.png">
-              </div>
-              <h1>
-                <span class="text-rotater nocolor" data-separator="|" data-rotate="flipInX" data-speed="3500">
-                  <span class="t-rotate"> Deep Tissue Massage Therapy| Repetitive Strain Injuries| Back Pain| Sports Injuries| Headaches</span>
-                </span>
-              </h1>     
-            </div>
-            
-          </div>
 
+        <section id="slider" class="slider-parallax swiper_wrapper full-screen clearfix inline-block" style="background: url('assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
+
+
+
+            <div id="travel-slider-overlay inline-block">
+
+                <!-- Picture -->
+                <div class="vertical-middle hidden-sm hidden-xs hidden-xxs">
+                    <div class="container clearfix">             
+                        <div class="tabs travel-organiser-tabs fleft clearfix" >
+                            <img style="float: left;" src="assets/images/img_video.gif">
+                        </div>
+                        
+
+                    </div>
+                </div>   
+                <!-- Picture -->
+
+                <!-- Start Tabs -->
+                <div class="vertical-middle">
+                    <div class="container clearfix">             
+                        
+
+                        <div class="tabs travel-organiser-tabs clearfix">
+
+                            <ul class="tab-nav clearfix">
+                                <li><a href="#tab-hours"><i class="icon-building"></i><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Hours</span></a></li>
+                                <li><a href="#tab-rates"><i class="icon-plane"></i><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Rates</span></a></li>
+                                <li><a href="#tab-contact-form"><i class="icon-plane"></i><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Contact</span></a></li>
+                            </ul>
+
+                            <div class="tab-container">
+
+                                <div class="tab-content clearfix" id="tab-hours">
+                                    <div class="heading-block nobottomborder bottommargin-sm clearfix">
+                                        <h4 class="fright">Hours</h4>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <div id="timebox">
+                                        <span><strong>Monday</strong>10:00 - 5:00</span>
+                                        <span><strong>Tuesday</strong> 10:00 - 8:00</span>
+                                        <span><strong>Wednesday</strong> 10:00 - 5:00</span>
+                                        <span><strong>Thursday</strong> 10:00 - 3:00</span>
+                                        <span><strong>Friday</strong> 10:00 - 3:00</span>
+                                        <span><strong>Saturday</strong> Closed</span>
+                                        <span><strong>Sunday</strong> Closed</span>
+                                    </div>
+                                </div>
+                                <div class="tab-content clearfix" id="tab-rates">
+                                    <div class="heading-block nobottomborder bottommargin-sm clearfix">
+                                        <h4 class="fright">Rates</h4>
+                                        <div class="clear"></div>
+                                    </div>
+
+                                    <div>
+                                        <span><strong>1/2 Hour</strong> $60</span><br>
+                                        <span><strong>1 Hour</strong> $90</span><br>
+                                        <span><strong>1.5 Hour</strong> $125</span><br>
+                                    </div>
+                                </div>
+                                <div class="tab-content clearfix" id="tab-contact-form">
+                                    <div class="heading-block nobottomborder bottommargin-sm clearfix">
+                                        <h4 class="fright">Contact Form</h4>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <form action="#" method="post" class="nobottommargin">
+                                        <div class="row">
+                                            <div class="col-sm-9 bottommargin-sm">
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-xs-6">
+                                                        <label for="">Name</label>
+                                                        <input type="text" value="" class="sm-form-control" placeholder="Eg. Melbourne, Australia">
+                                                    </div>
+                                                    <div class="col-sm-6 col-xs-6">
+                                                        <label for="">Email</label>
+                                                        <input type="email" value="" class="sm-form-control" placeholder="Eg. New York, United States">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-3 bottommargin-sm">
+                                                <label for="">Subject</label>
+                                                <input type="text" min="1" max="10" value="" class="sm-form-control" name="end" placeholder="2">
+                                            </div>
+                                            <div class="input-daterange travel-date-group col-sm-9 bottommargin-sm">
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-xs-6">
+                                                        <label for="">Message</label>
+                                                        <input type="text_area" value="" class="sm-form-control tright" name="start" placeholder="MM/DD/YYYY">
+                                                    </div>
+                                                    <div class="col-sm-6 col-xs-6">
+                                                        <label for="">Return</label>
+                                                        <input type="text" value="" class="sm-form-control tright" name="end" placeholder="MM/DD/YYYY">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-3  bottommargin-sm">
+                                                <label for="">Rooms</label>
+                                                <input type="number" min="1" max="10" value="" class="sm-form-control" name="end" placeholder="2">
+                                            </div>
+                                            <div class="col-sm-12">
+                                                <button class="button button-3d nomargin rightmargin-sm">Submit</button>
+                                                <a href="#" class="more-link fleft" style="margin-top: 9px;">Holiday Packages</a>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>   
+                <!-- Tabs Ends -->
+                
+            </div>
         </section>
-<!--         <section class="tabs clearfix">
-        <div class="tabs bottom nobottommargin nobocolor" id="tabs">
 
-          <ul class="tab-nav clearfix nobgcolor">
-            <li><a href="#tab-1">Hours</a></li>
-            <li><a href="#tab-2">Rates</a></li>
-          </ul>
-
-          <div class="tab-container">
-
-            <div class="tab-content clearfix" id="tab-1">
-              These are the days I work
-            </div>
-            <div class="tab-content clearfix" id="tab-2">
-              tHIS IS HOW MUCH i CHARGE
-            </div>
-          </div>
-        </div>
-        </section> -->
         <!-- Content
         ============================================= -->
         <section id="content" style="overflow: visible;">
@@ -98,10 +179,10 @@
 
           <div class="content-wrap">
 
-            <div class="promo  promo-full landing-promo header-stick">
+            <div class="promo  promo-full landing-promo header-stick center">
               <div class="container clearfix">
-                <h3>KITCHENER / WATERLOO MASSAGE THERAPY <i class="icon-circle-arrow-right" style="position:relative;top:2px;"></i></h3>
-                <span>You'll love our beautiful &amp; interactive builder that makes your build process easier &amp; fun.</span>
+                <h3>KITCHENER / WATERLOO MASSAGE THERAPY</h3>
+                <span>Specializing in Deep Tissue Therapy!</span>
               </div>
           </div>
 

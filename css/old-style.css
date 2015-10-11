@@ -107,7 +107,7 @@ body.change_bg_summer { background:url({% if site.url == "http://jeremykw.github
 #rightcol ol.number li { list-style:decimal; list-style-position:inside; font-size:14px; color:#494a42; margin:0; padding:0 0 3px 0; }
 #rightcol p span.black { display:block; }
 
-.testimonialbox { background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/bg_testimonialbox.gif) no-repeat center bottom; width:540px; height:auto; float:left; margin:0 0 25px 0; padding:0 0 10px 0; }
+.testimonialbox { background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/bg_testimonialbox.gif) no-repeat center bottom; width:540px; height:auto; float:left; margin:0 0 25px 0; padding:0 0 0 0; }
 .testimonialbox .testimonialinner { background:#fafaf5; border:solid 1px #c9c7b8; width:518px; height:auto; float:left; margin:0; padding:20px 10px; } 
 .testimonialbox .quotetop { background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/img_comatop.gif) no-repeat left top; width:100%; height:auto; float:left; }
 .testimonialbox .quotebottom { background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/img_comabottom.gif) no-repeat right bottom; width:428px; float:left; margin:0; padding:0 45px; }

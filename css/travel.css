@@ -20,7 +20,7 @@
 h1,
 h2,
 h3,
-h4 { font-family: 'Arca Majora', sans-serif; }
+h4 { font-family: 'Arca Majora', sans-serif;}
 
 
 
@@ -199,4 +199,5 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay {
 #rate_box span { font-size:13px; display:block; font-weight:bold; color:#3377b8; margin:0; padding:0; }
 #rate_box span strong { width:120px; float:left; color:#494a42; }
 
+.h1 {; color: #006cb8}
 /*CSS from old website*/

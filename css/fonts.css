@@ -11,7 +11,8 @@ small,
 #primary-menu ul ul a,
 .wp-caption,
 .feature-box.fbox-center.fbox-italic p,
-.skills li .progress-percent .counter { font-family: 'Lato', sans-serif; }
+.skills li .progress-percent .counter,
+.nav-tree ul ul a { font-family: 'Lato', sans-serif; }
 
 h1,
 h2,
@@ -28,6 +29,7 @@ h6,
 .button.button-desc,
 .counter,
 label,
+.nav-tree li a,
 .wedding-head .first-name,
 .wedding-head .last-name { font-family: 'Raleway', sans-serif; }
 

@@ -629,20 +629,6 @@
 		padding: 0 !important;
 	}
 
-	#tagline {
-		width:402px; 
-		height:49px; 
-		float:left; 
-		font-size:14px; 
-		color:#fff; 
-		font-weight:bold; 
-		line-height:49px; 
-		text-shadow:rgba(64, 138, 179, 1) 0px 1px 0px; 
-		text-transform:uppercase; margin:24px 0 0 0; 
-		padding:0 0 0 173px; 
-	}
-
-
 	#logo a.standard-logo { display: inline-block; }
 
 	#primary-menu {

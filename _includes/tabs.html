@@ -4,15 +4,36 @@
   <div class="tabs travel-organiser-tabs clearfix">
   <!-- Tabs Nav-->
     <ul class="tab-nav clearfix">
+      <li><a href="#tab-welcome"><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Welcome</span><i class="icon-comment2"></i></a></li>
+      <li class="hidden-lg hidden-md"><a href="#tab-picture"><i class="icon-line-head"></i></a></li>
       <li><a href="#tab-hours"><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Hours</span><i class="icon-table"></i></a></li>
       <li><a href="#tab-rates"><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Rates</span><i class="icon-dollar"></i></a></li>
-      <li><a href="#tab-contact-form"><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Message</span><i class="icon-gmail"></i></a></li>
+      <li><a href="#tab-contact-form"><span class="hidden-md hidden-sm hidden-xs hidden-xxs">Email</span><i class="icon-gmail"></i></a></li>
     </ul>
     <!-- Tabs Nav -->
     <!-- Tabs -->
-    <div class="tab-container">
+    <div class="tab-container ">
 
-      <div class="tab-content clearfix" id="tab-hours">
+      <div dir="lft" class="tab-content clearfix center" id="tab-welcome">
+        <div class="heading-block nobottomborder bottommargin-sm clearfix">
+          <h3 style="color: #006cb8;" class="fleft">Kitchener Massage Therapy</h3>
+          <div class="clear"></div>
+        </div>        
+        <span style="font-size: 22px; " class="hidden-xs hidden-xxs">Specializing in Deep Tissue Massage and Trigger Point Release Therapy to bring you the relief you need from repetitive strain injuries and postural dysfunctions related to sports, the workplace, and family life.</span>
+        <span style="font-size: 16px; " class="hidden-lg hidden-md hidden-sm">Specializing in Deep Tissue Massage and Trigger Point Release Therapy to bring you the relief you need from repetitive strain injuries and postural dysfunctions related to sports, the workplace, and family life.</span>
+        <hr>   
+        <div class="row">
+          <div class="col_full noheight ">
+            <button class="btn btn-danger fright nomargin">Schedule Now</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="tab-content clearfix center hidden-lg hidden-md" id="tab-picture">          
+        <img class="center" src="assets/images/img_video.png">
+      </div>
+
+      <div dir="lft" class="tab-content clearfix" id="tab-hours">
         <div class="heading-block nobottomborder bottommargin-sm clearfix">
           <h4 class="fleft">Hours</h4>
           <div class="clear"></div>
@@ -26,65 +47,35 @@
           <span><strong>Saturday</strong> Closed</span>
           <span><strong>Sunday</strong> Closed</span>
         </div>
+        <div class="row">
+          <div class="col_full noheight">
+            <button class="btn btn-danger nomargin">Schedule Now</button>
+          </div>
+        </div>
       </div>
-      <div class="tab-content clearfix" id="tab-rates">
+      <div dir="lft" class="tab-content clearfix" id="tab-rates">
         <div class="heading-block nobottomborder bottommargin-sm clearfix">
           <h4 class="fleft">Rates</h4>
           <div class="clear"></div>
         </div>
-
         <div id="timebox">
           <span><strong>1/2 Hour</strong> $60</span><br>
           <span><strong>1 Hour</strong> $90</span><br>
           <span><strong>1.5 Hour</strong> $125</span><br>
         </div>
-      </div>
-      <div class="tab-content clearfix" id="tab-contact-form">
-        <div class="heading-block nobottomborder bottommargin-sm clearfix">
-          <h4 class="fright">Contact Form</h4>
-          <div class="clear"></div>
-        </div>
-        <form action="#" method="post" class="nobottommargin">
-          <div class="row">
-            <div class="col-sm-9 bottommargin-sm">
-              <div class="row">
-                <div class="col-sm-6 col-xs-6">
-                  <label for="">Name</label>
-                  <input type="text" value="" class="sm-form-control" placeholder="Eg. Melbourne, Australia">
-                </div>
-                <div class="col-sm-6 col-xs-6">
-                  <label for="">Email</label>
-                  <input type="email" value="" class="sm-form-control" placeholder="Eg. New York, United States">
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-3 bottommargin-sm">
-              <label for="">Subject</label>
-              <input type="text" min="1" max="10" value="" class="sm-form-control" name="end" placeholder="2">
-            </div>
-            <div class="input-daterange travel-date-group col-sm-9 bottommargin-sm">
-              <div class="row">
-                <div class="col-sm-6 col-xs-6">
-                  <label for="">Message</label>
-                  <input type="text_area" value="" class="sm-form-control tright" name="start" placeholder="MM/DD/YYYY">
-                </div>
-                <div class="col-sm-6 col-xs-6">
-                  <label for="">Return</label>
-                  <input type="text" value="" class="sm-form-control tright" name="end" placeholder="MM/DD/YYYY">
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-3  bottommargin-sm">
-              <label for="">Rooms</label>
-              <input type="number" min="1" max="10" value="" class="sm-form-control" name="end" placeholder="2">
-            </div>
-            <div class="col-sm-12">
-              <button class="button button-3d nomargin rightmargin-sm">Submit</button>
-              <a href="#" class="more-link fleft" style="margin-top: 9px;">Holiday Packages</a>
-            </div>
+        <div class="row">
+          <div class="col_full noheight">
+            <button class="btn btn-danger nomargin">Schedule Now</button>
           </div>
-        </form>
+        </div>
       </div>
+
+      <div dir="lft" class="tab-content clearfix" id="tab-contact-form">      
+        <div class="widget quick-contact-widget"> 
+          {% include contact_form.html %}
+        </div>                     
+      </div>
+
     </div>
     <!-- Tabs -->
   </div>

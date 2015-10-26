@@ -9,7 +9,7 @@
       <!-- Logo
       ============================================= -->
       <div id="logo">
-        <a href="index.html" class="standard-logo" data-dark-logo="assets/images/logo_kitchener_massage.png"><img src="assets/images/logo_kitchener_massage.png" alt="Kitchener Massage Therapist"></a>
+        <a href="index.html" class="standard-logo" data-dark-logo="{{site.url}}/assets/images/logo_kitchener_massage.png"><img src="{{site.url}}/assets/images/logo_kitchener_massage.png" alt="Kitchener Massage Therapist"></a>
       </div>
       <!-- #logo end -->
 
@@ -25,27 +25,20 @@
 
 
 
-<!-- Header Slider With Picture and tabs -->
-<section id="slider" class="slider-parallax full-screen " style="background: url('assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
-  <div id="inline-block" >
 
-    <!-- Picture -->
-    <div class="vertical-middle hidden-sm hidden-xs hidden-xxs">
-      <div class="container clearfix">             
-          <img style="float: left;" src="assets/images/img_video.png">
+
+<!-- Page Title
+    ============================================= -->
+    <section id="page-title" class="page-title-dark">
+
+      <div class="container clearfix">
+        <h1>Kitchener Massage Therapy</h1>
+        <span>{{page.title}}</span>
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Shortcodes</a></li>
+          <li class="active">Page Titles</li>
+        </ol>
       </div>
-    </div>   
-    <!-- Picture -->
 
-    <!-- Start Tabs -->
-    <div dir="rtl" class="vertical-middle">
-      {% include tabs.html%}
-    </div>   
-    <!-- Tabs Ends -->
-
-  </div>
-</section>
-<!-- Header Slider With Picture and tabs -->
-
-
-
+    </section><!-- #page-title end -->

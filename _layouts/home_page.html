@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  {% include page_head.html %}
+  <body class="stretched">
+  <!-- Document Wrapper
+    ============================================= -->
+    <div id="wrapper" class="clearfix">
+
+      {% include home_page_header.html %}
+      {{content}}
+      {% include page_footer.html %}
+
+    </div>
+    <!-- Footer Scripts
+    ============================================= -->
+    <script type="text/javascript" src="{{site.url}}/js/functions.js"></script>
+
+  </body>
+</html>

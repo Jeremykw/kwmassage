@@ -1,7 +1,7 @@
 <!-- Header
 ============================================= -->
 <header id="header" class="transparent-header" data-sticky-class="not-dark" data-responsive-class="not-dark">
-  <div id="header-wrap ">
+  <div id="header-wrap">
     <div class="container clearfix">
 
       <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
@@ -14,7 +14,7 @@
       <!-- #logo end -->
 
       <!-- Nagigation -->
-      {% include nav.html %}
+      {% include home_page_nav.html %}
       <!-- End Nagigation -->
 
     </div>
@@ -26,7 +26,7 @@
 
 
 <!-- Header Slider With Picture and tabs -->
-<section id="slider" class="slider-parallax full-screen " style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
+<section id="slider" class="slider-parallax full-screen with-header clearfix" style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
   <div id="inline-block" >
 
     <!-- Picture -->
@@ -38,7 +38,7 @@
     <!-- Picture -->
 
     <!-- Start Tabs -->
-    <div dir="rtl" class="vertical-middle">
+    <div dir="rtl" class="vertical-middle " style="overflow: visible;">
       {% include tabs.html%}
     </div>   
     <!-- Tabs Ends -->

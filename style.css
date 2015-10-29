@@ -9409,7 +9409,7 @@ body:not(.device-touch) .clients-grid li a {
 .testi-meta span {
 	display: block;
 	font-weight: normal;
-	color: #999;
+/*	color: #999;*/
 	font-size: 12px;
 	text-transform: none;
 	padding-left: 10px;

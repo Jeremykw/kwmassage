@@ -4,6 +4,30 @@
 -----------------------------------------------------------------*/
 
 
+/*Testimonial page tagline*/
+.testimonial {
+	margin-top: 10px;
+}
+.testimonial p {
+	color: rgb(85, 85, 85);
+	display: block;
+	font-family: 'Crete Round', serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 25.2px;
+}
+
+#testi-span{
+	color: rgb(85, 85, 85);
+	font-family: Lato, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	height: 18px;
+	line-height: 18px;
+	padding-left: 10px;
+	text-transform: none;
+}
+/*Testimonial page tagline Ends*/
 
 
 

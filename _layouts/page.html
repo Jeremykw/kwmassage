@@ -13,7 +13,20 @@
     <section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('{{site.url}}/assets/images/bg_body_mountain.jpg'); padding: 80px 0;" data-stellar-background-ratio="0.3">
 
       <div class="container clearfix">
-        {{content}}
+        
+        <!-- Left Col -->
+        <div class="col_one_third noleftmargin nopadding slider-caption-bg slider-caption-bg-light">
+          {% include page_leftcol.html %}
+        </div>
+        <!-- Left Col Ends -->
+
+        <!-- Right Col -->
+        <div class="col_two_third norightmargin col_last slider-caption-bg slider-caption-bg-light">
+          
+          {{content}}
+          
+        </div>
+        <!-- Right Col Ends -->
       </div>
 
     </section>

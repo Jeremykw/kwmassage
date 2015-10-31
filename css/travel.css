@@ -4,6 +4,33 @@
 -----------------------------------------------------------------*/
 
 
+/*Testimonial page tagline*/
+.testimonial {
+	margin-top: 10px;
+}
+.testimonial p {
+	color: rgb(85, 85, 85);
+	display: block;
+	font-family: 'Crete Round', serif;
+	font-size: 14px;
+	font-style: italic;
+	line-height: 25.2px;
+}
+
+#testi-span{
+	color: rgb(85, 85, 85);
+	font-family: Lato, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	height: 18px;
+	line-height: 18px;
+	padding-left: 10px;
+	text-transform: none;
+}
+/*Testimonial page tagline Ends*/
+
+
+
 @font-face {
 	font-family: 'Arca Majora';
 	src: url('css/fonts/arca-heavy-webfont.eot');
@@ -37,22 +64,22 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 
 }
 
-.dark .top-links li > a { color: #006cb8; }
+.dark .top-links li > a { color: #EEE; }
 
 .dark .top-links li:hover { background-color: rgba(255,255,255,0.15); }
 
 .dark #top-social li { border-left: 0; }
 
-.dark #top-social li a { color: #006cb8; }
+.dark #top-social li a { color: #EEE; }
 
 .dark #header-wrap:not(.not-dark) #primary-menu.style-4 > ul > li:hover > a,
 .dark #header-wrap:not(.not-dark) #primary-menu.style-4 > ul > li.current > a { border-color: rgba(255,255,255,0.5); }
 
-.tabs.travel-organiser-tabs { width: 50% !important; }
+.tabs.travel-organiser-tabs { width: 60% !important; }
 
 .tabs.travel-organiser-tabs { margin: 0; }
 
-.travel-organiser-tabs ul.tab-nav { border-bottom: 4px solid #006cb8; }
+.travel-organiser-tabs ul.tab-nav { border-bottom: 4px solid #004575AC4147; }
 
 .travel-organiser-tabs ul.tab-nav li {
 	margin-left: 1px;
@@ -68,7 +95,7 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 	color: #FFF;
 	height: 48px;
 	line-height: 48px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: #006cb8;
 	font-size: 15px;
 	font-weight: 400;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
@@ -76,7 +103,7 @@ h4 { font-family: 'Arca Majora', sans-serif; }
 
 .travel-organiser-tabs ul.tab-nav li.ui-tabs-active a {
 	top: 0;
-	background-color: #006cb8;
+	background-color: #004575;
 }
 
 .travel-organiser-tabs ul.tab-nav li .label { margin-left: 5px; }
@@ -187,17 +214,4 @@ body:not(.device-touch):not(.device-xs):not(.device-xxs) .portfolio-overlay {
 .device-xs .tabs.travel-organiser-tabs .tab-nav i,
 .device-xxs .tabs.travel-organiser-tabs .tab-nav i { margin-right: 0 !important; }
 
-/*CSS from old website*/
 
-#timebox { width:340px; height:auto; float:left; margin:0; padding:0 0 20px 10px; }
-#timebox h1 { font-size:25px; color:#3377b8; margin:0; padding:0 0 5px 0; }
-#timebox span { font-size:13px; display:block; color:#77786f; margin:0; padding:0; }
-#timebox span strong { width:120px; float:left; color:#494a42; }
-
-#rate_box { background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/bg_ratebox.png) no-repeat; width:340px; height:105px; float:left; margin:0; padding:30px 0 10px 10px; }
-#rate_box h1 { font-size:25px; color:#3377b8; margin:0; padding:0 0 5px 0; }
-#rate_box span { font-size:13px; display:block; font-weight:bold; color:#3377b8; margin:0; padding:0; }
-#rate_box span strong { width:120px; float:left; color:#494a42; }
-
-.h1 {; color: #006cb8}
-/*CSS from old website*/

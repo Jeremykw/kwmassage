@@ -11,7 +11,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 	{% if post.layout != "redirect" %}
 		{% if post.category == "rock_climbing" or post.post_id == 318 %}
 		<p>
-			<h1>{{ post.title }}</h1>
+			<h4>{{ post.title }}</h4>
 			<div class="date">{{ post.date | date_to_string }}</div>
 			{{ post.excerpt }} ...<a title="Read More" href="{{site.url}}{{ post.url }}">read more...</a>
 		</p>
@@ -21,7 +21,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 
 {% for page in site.pages %}
 	{% if page.post_id == 316 %}
-	  <h1>{{ page.title }}</h1>
+	  <h4>{{ page.title }}</h4>
 	  <!-- <p class="author">
 	    <span class="date">{{ page.date | date_to_string }}</span>
 	  </p> -->

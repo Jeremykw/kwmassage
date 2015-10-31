@@ -1,8 +1,8 @@
 <!-- Hours -->
-<div  style="margin: 20px;">
+<div>
 	<h3>Hours</h3>
-	<div class="row">
-		<div style="margin-left: 25px; width: 100px" class="col_half norightmargin">
+	<div style="margin-right: 0px;" class="row">
+		<div style="margin-left: 25px; width: 70px;" class="col_half norightmargin inline-block">
 			<strong>Monday</strong></br>
 			<strong>Tuesday</strong></br>
 			<strong>Wednesday</strong></br>
@@ -12,7 +12,7 @@
 			<strong>Sunday</strong></br>
 		</div>
 
-		<div class="col_half col_last norightmargin noleftmargin" style="text-align: right;">
+		<div  style="text-align: right; width: 100px;" class="col_half fright col_last norightmargin noleftmargin">
 	    	10:00 - 5:00</br>
 	    	10:00 - 8:00</br>
 	    	10:00 - 5:00</br>
@@ -27,15 +27,15 @@
 
 <!-- Rates -->
 <div>
-	<h3 style="margin: 20px;" >Rates</h3>
-	<div class="row" style=" background:url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/bg_ratebox.png) center; overflow: visible; background-size: cover; width:340px; height:120px; float:left; margin:0 0 20px 0; padding:30px 0 0px 0px;">
-		<div style="margin-left: 25px; width: 100px" class="col_half">
+	<h3>Rates</h3>
+	<div style="margin-right: 0px;" class="row">
+		<div style="margin-left: 25px; width: 80px" class="col_half norightmargin inline-block">
 			<strong>1/2 Hour</strong></br>
 			<strong>1 Hour</strong></br>
 			<strong>1.5 Hour</strong></br>
 		</div>
 
-		<div class="col_half col_last norightmargin noleftmargin" style="text-align: right;">
+		<div style="text-align: right; width: 50px;" class="col_half fright col_last norightmargin noleftmargin" >
 	    	$60</br>
 	    	$90</br>
 	    	$125</br>
@@ -43,7 +43,9 @@
 	</div>
 </div>
 <!-- Rates End -->
-
+<div class="clearfix"></div>
 <!-- Schedule Now Button -->
+<div>
 <a href="{{site.baseurl}}/clinic-information" target="_self" title="Schedule Massage Therapy Appointment Now"><button style="margin: 10px" class="btn btn-danger fright">Schedule Now</button></a>
+</div>
 <!-- Schedule Now Button Ends -->

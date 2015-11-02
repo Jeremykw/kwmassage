@@ -1,51 +1,19 @@
 <!-- Hours -->
-<div>
-	<h3>Hours</h3>
-	<div style="margin-right: 0px;" class="row">
-		<div style="margin-left: 25px; width: 70px;" class="col_half norightmargin inline-block">
-			<strong>Monday</strong></br>
-			<strong>Tuesday</strong></br>
-			<strong>Wednesday</strong></br>
-			<strong>Thursday</strong></br>
-			<strong>Friday</strong></br>
-			<strong>Saturday</strong></br>
-			<strong>Sunday</strong></br>
-		</div>
+<h3>Hours</h3>
+{% include timebox.html %}
 
-		<div  style="text-align: right; width: 100px;" class="col_half fright col_last norightmargin noleftmargin">
-	    	10:00 - 5:00</br>
-	    	10:00 - 8:00</br>
-	    	10:00 - 5:00</br>
-	    	10:00 - 3:00</br>
-	    	10:00 - 3:00</br>
-	    	Closed</br>
-	    	Closed</br>
-		</div>
-	</div>
-</div>
+
 <!-- Hours End -->
 
 <!-- Rates -->
-<div>
-	<h3>Rates</h3>
-	<div style="margin-right: 0px;" class="row">
-		<div style="margin-left: 25px; width: 80px" class="col_half norightmargin inline-block">
-			<strong>1/2 Hour</strong></br>
-			<strong>1 Hour</strong></br>
-			<strong>1.5 Hour</strong></br>
-		</div>
 
-		<div style="text-align: right; width: 50px;" class="col_half fright col_last norightmargin noleftmargin" >
-	    	$60</br>
-	    	$90</br>
-	    	$125</br>
-		</div>
-	</div>
-</div>
+<h3>Rates</h3>
+{% include ratebox.html %}
+
 <!-- Rates End -->
 <div class="clearfix"></div>
 <!-- Schedule Now Button -->
 <div>
-<a href="{{site.baseurl}}/clinic-information" target="_self" title="Schedule Massage Therapy Appointment Now"><button style="margin: 10px" class="btn btn-danger fright">Schedule Now</button></a>
+	<a href="{{site.baseurl}}/clinic-information" title="Schedule Massage Therapy Appointment Now"><button style="margin: 10px" class="btn btn-danger fright">Schedule Now</button></a>
 </div>
 <!-- Schedule Now Button Ends -->

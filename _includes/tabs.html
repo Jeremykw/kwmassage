@@ -24,7 +24,7 @@
         <hr>   
         <div class="row">
           <div class="col_full noheight ">
-            <button class="btn btn-danger fright nomargin">Schedule Now</button>
+            <a href="{{site.baseurl}}/clinic-information" title="Schedule Massage Therapy Appointment Now"><button class="btn btn-danger fright nomargin">Schedule Now</button></a>
           </div>
         </div>
       </div>
@@ -38,18 +38,12 @@
           <h4 class="fleft">Hours</h4>
           <div class="clear"></div>
         </div>
-        <div id="timebox">
-          <span><strong>Monday</strong>10:00 - 5:00</span>
-          <span><strong>Tuesday</strong> 10:00 - 8:00</span>
-          <span><strong>Wednesday</strong> 10:00 - 5:00</span>
-          <span><strong>Thursday</strong> 10:00 - 3:00</span>
-          <span><strong>Friday</strong> 10:00 - 3:00</span>
-          <span><strong>Saturday</strong> Closed</span>
-          <span><strong>Sunday</strong> Closed</span>
+        <div data-class-lg="rightmargin-lg leftmargin-lg" data-class-md="rightmargin-lg leftmargin-lg" data-class-sm="rightmargin-lg leftmargin-lg" data-class-xs="rightmargin-sm leftmargin-sm" data-class-xxs="">
+          {% include timebox.html %}
         </div>
         <div class="row">
           <div class="col_full noheight">
-            <button class="btn btn-danger nomargin">Schedule Now</button>
+            <a href="{{site.baseurl}}/clinic-information" title="Schedule Massage Therapy Appointment Now"><button class="btn btn-danger fright nomargin">Schedule Now</button></a>
           </div>
         </div>
       </div>
@@ -58,14 +52,12 @@
           <h4 class="fleft">Rates</h4>
           <div class="clear"></div>
         </div>
-        <div id="timebox">
-          <span><strong>1/2 Hour</strong> $60</span><br>
-          <span><strong>1 Hour</strong> $90</span><br>
-          <span><strong>1.5 Hour</strong> $125</span><br>
+        <div data-class-lg="rightmargin-lg leftmargin-lg" data-class-md="rightmargin-lg leftmargin-lg" data-class-sm="rightmargin-lg leftmargin-lg" data-class-xs="rightmargin-sm leftmargin-sm" data-class-xxs="">
+          {% include ratebox.html %}
         </div>
         <div class="row">
           <div class="col_full noheight">
-            <button class="btn btn-danger nomargin">Schedule Now</button>
+            <a href="{{site.baseurl}}/clinic-information" title="Schedule Massage Therapy Appointment Now"><button class="btn btn-danger fright nomargin">Schedule Now</button></a>
           </div>
         </div>
       </div>

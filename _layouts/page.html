@@ -1,32 +1,54 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  {% include page_head.html %}
-  <body class="stretched">
+{% include page_head.html %}
+<body class="stretched">
   <!-- Document Wrapper
-    ============================================= -->
-    <div id="wrapper" class="clearfix">
+  ============================================= -->
+  <div id="wrapper" class="clearfix">
 
-      {% include page_header.html %}
-      
+    {% include page_header.html %}
+
     <!-- Page Title and content
     ============================================= -->
-    <section id="page-title" class="page-title-parallax page-title-dark" style="background-image: url('{{site.url}}/assets/images/bg_body_mountain.jpg');" data-stellar-background-ratio="0.3">
+    <section id="page-title" class="page-title-parallax notoppadding" style="background-image: url('{{site.url}}/assets/images/bg_body_mountain.jpg'); background-repeat: no-repeat; ">
+      <div class="content-wrap  notopmargin">
+        <div class="container clearfix notopmargin">
 
-      <div class="container clearfix noleftmargin">
-        
-        <!-- Left Col -->
-        <div class="col_one_third slider-caption-bg slider-caption-bg-light">
-          <div class="topmargin">{% include page_leftcol.html %}</div>
-        </div>
-        <!-- Left Col Ends -->
 
-        <!-- Right Col -->
-        <div class="col_two_third col_last slider-caption-bg slider-caption-bg-light">
-          <div class="topmargin">{{content}}</div>
+          <!-- Right Col -->
+          <div class="postcontent nobottommargin col_last clearfix">
+            <div class="single-post nobottommargin slider-caption-bg slider-caption-bg-light">
+              <div class="entry clearfix">
+                <div class="entry-content notopmargin">
+
+                  {{content}}
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Right Col Ends -->
+
+          <!-- Sidebar
+          ============================================= -->
+          <div class="sidebar nobottommargin clearfix">
+            <div class="sidebar-widgets-wrap slider-caption-bg slider-caption-bg-light">
+
+              <div class="widget clearfix">
+                {% if page.post_id == 7 %}
+                  {% include appointments_leftcol.html %}
+                {% else %}
+                  {% include page_leftcol.html%}                
+                {% endif %}
+              </div>
+
+            </div>
+          </div>
+          <!-- .sidebar end -->
+
+
         </div>
-        <!-- Right Col Ends -->
       </div>
-
     </section>
     <!-- #page-title and content end -->
 
@@ -34,10 +56,10 @@
     <!-- Footer -->
     {% include page_footer.html %}
     <!-- Footer end -->
-    </div>
-    <!-- Footer Scripts
-    ============================================= -->
-    <script type="text/javascript" src="/js/functions.js"></script>
+  </div>
+  <!-- Footer Scripts
+  ============================================= -->
+  <script type="text/javascript" src="/js/functions.js"></script>
 
-  </body>
+</body>
 </html>

@@ -25,27 +25,31 @@
 
 
 
-<!-- Header Slider With Picture and tabs -->
-<section id="slider" class="slider-parallax full-screen with-header clearfix" style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="600" data-height-md="500" data-height-sm="400" data-height-xs="300" data-height-xxs="250">
-  <div id="inline-block" >
+<section id="slider" class="slider-parallax full-screen clearfix" style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover; " data-height-lg="650" data-height-md="650" data-height-sm="650" data-height-xs="300" data-height-xxs="250">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      
+      <!--First Slide-->
+      <div class="swiper-slide">
 
-    <!-- Picture -->
-    <div class="vertical-middle hidden-sm hidden-xs hidden-xxs">
-      <div class="container clearfix">             
-          <img style="float: left;" src="{{site.url}}/assets/images/img_video.png">
+
+
+        <!-- Picture -->
+        <div class="slider-caption slider-caption-center leftmargin-lg notopmargin hidden-md hidden-sm hidden-xs hidden-xxs">
+          <a href="http://youtube/XSRrvEXZSdk" data-lightbox="iframe">
+            <img src="{{site.url}}/assets/images/img_video.png">.
+          </a>
+        </div>
+        <!-- Picture -->
+
+        <div style="overflow: visable; " class="slider-caption slider-caption-right topmargin">
+        {% include tabs.html %}
+        </div>
+
       </div>
-    </div>   
-    <!-- Picture -->
 
-    <!-- Start Tabs -->
-    <div dir="rtl" class="vertical-middle " style="overflow: visible;">
-      {% include tabs.html%}
-    </div>   
-    <!-- Tabs Ends -->
-
+    </div>
   </div>
 </section>
-<!-- Header Slider With Picture and tabs -->
-
 
 

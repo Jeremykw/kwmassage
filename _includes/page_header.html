@@ -30,9 +30,9 @@
         <h1>Kitchener Massage Therapy</h1>
         <span>{{page.title}}</span>
         <ol class="breadcrumb">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Shortcodes</a></li>
-          <li class="active">Page Titles</li>
+          <li><a href="{{site.url}}">Home</a></li>
+          {% if page.category %}<li><a href="{{site.url}}/{{page.category}}">{{page.category}}</a></li>{% endif %}
+          <li class="active">{{page.title}}</li>
         </ol>
       </div>
 

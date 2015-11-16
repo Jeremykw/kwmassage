@@ -1,2 +1,0 @@
-[22-Dec-2014 14:15:27 America/Toronto] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/kwma2903/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40
-[26-Feb-2015 18:11:22 America/Toronto] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/kwma2903/public_html/wp-content/plugins/all-in-one-seo-pack/all_in_one_seo_pack.php on line 40

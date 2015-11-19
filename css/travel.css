@@ -5,6 +5,10 @@
 	Version: 1.0
 -----------------------------------------------------------------*/
 
+.testi-video{
+	display: none;
+}
+
 .header_background{
 	background: url({% if site.url == "http://jeremykw.github.io/kwmassage-stage" %}{{site.url}}{% endif %}/assets/images/bg_body_mountain.jpg);
 	background-repeat: no-repeat; 

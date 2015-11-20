@@ -4,7 +4,9 @@
 	Canvas: Travel Demo
 	Version: 1.0
 -----------------------------------------------------------------*/
-
+.sm-bg-image{
+	background-size: 10%;
+}
 .testi-video{
 	display: none;
 }

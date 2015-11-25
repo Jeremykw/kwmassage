@@ -405,7 +405,7 @@ var SEMICOLON = SEMICOLON || {};
 
 			if( $lightboxIframeEl.length > 0 ) {
 				$lightboxIframeEl.magnificPopup({
-					disableOn: 600,
+					disableOn: 100,
 					type: 'iframe',
 					removalDelay: 160,
 					preloader: false,

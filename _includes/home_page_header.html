@@ -21,26 +21,32 @@
   </div>  
 </header>
 <!-- #header end -->
-
-
-<section id="slider" class="slider-parallax swiper-wrapper full-screen clearfix" style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover; transform: none;" data-height-lg="650" data-height-md="550" data-height-sm="550" data-height-xs="550" data-height-xxs="550">
-  <div class="swiper-container" >
-
+<script type="text/javascript">
+// var mySwiper = new Swiper('.swiper-container', {
+//     speed: 400,
+//     autoResize: false
+// }); 
+</script>
+<section id="slider" class="slider-parallax swiper-wrapper full-screen clearfix" style="background: url('{{site.url}}/assets/images/bg_body_mountain.jpg') center; backgroung-repeat: no-repeat; overflow: visible; background-size: cover;" data-height-lg="650" data-height-md="550" data-height-sm="550" data-height-xs="550" data-height-xxs="550">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      
       <!--First Slide-->
-      <div class="nivoSlider">
+      <div class="swiper-slide">
 
         <!-- Picture -->
-        <div class="slider-caption slider-caption-center leftmargin-lg notopmargin hidden-sm hidden-xs hidden-xxs">
+        <div style="top: 0px !important" class="slider-caption leftmargin-lg notopmargin hidden-sm hidden-xs hidden-xxs">
           <a href="https://www.youtube.com/watch?v=XSRrvEXZSdk" data-lightbox="iframe">
-            <img alt="Welcome video; Jeremy Bissonnette, Kitchner Massage Therapist" src="{{site.url}}/assets/images/picture_kitchener_massage_therapist.png">.
+            <img alt="Welcome video; Jeremy Bissonnette, Kitchner Massage Therapist" src="{{site.url}}/assets/images/picture_kitchener_massage_therapist.png">
           </a>
         </div>
         <!-- Picture -->
 
-        <div style="" class="slider-caption slider-caption-right notopmargin">
+        <div style="top: 0px !important" class="slider-caption slider-caption-right notopmargin">
         {% include tabs.html %}
         </div>
 
       </div>
   </div>
 </section>
+

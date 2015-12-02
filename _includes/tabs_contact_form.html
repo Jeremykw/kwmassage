@@ -1,0 +1,39 @@
+<h4>Send Message</h4>
+
+<div id="tabs-contact-form-result" data-notify-type="success" data-notify-msg="<i class=icon-ok-sign></i> Message Sent Successfully!"></div>
+
+<form id="tabs-contact-form" name="tabs-contact-form" action="/include/tabscontact.php" method="post" class="nobottommargin">
+
+    <div class="form-process"></div>
+    <div class="input-group divcenter">
+        <span class="input-group-addon"><i class="icon-user"></i></span>
+        <input type="text" class="required form-control input-block-level" id="tabs-contact-form-name" name="tabs-contact-form-name" value="" placeholder="Full Name" />
+    </div>
+    <div class="input-group divcenter">
+        <span class="input-group-addon"><i class="icon-email2"></i></span>
+        <input type="text" class="required form-control email input-block-level" id="tabs-contact-form-email" name="tabs-contact-form-email" value="" placeholder="Email Address" />
+    </div>
+    <textarea class="required form-control input-block-level short-textarea" id="tabs-contact-form-message" name="tabs-contact-form-message" rows="4" cols="30" placeholder="Message"></textarea>
+    <input type="text" class="hidden" id="tabs-contact-form-botcheck" name="tabs-contact-form-botcheck" value="" />
+    <button type="submit" id="tabs-contact-form-submit" name="tabs-contact-form-submit" class="btn btn-danger fright nomargin" value="submit">Send Email</button>
+</form>
+
+<script type="text/javascript">
+    $("#tabs-contact-form").validate({
+        submitHandler: function(form) {
+            $(form).animate({ opacity: 0.4 });
+            $(form).find('.form-process').fadeIn();
+            $(form).ajaxSubmit({
+                target: '#tabs-contact-form-result',
+                success: function() {
+                    $(form).animate({ opacity: 1 });
+                    $(form).find('.form-process').fadeOut();
+                    $(form).find('.form-control').val('');
+                    $('#tabs-contact-form-result').attr('data-notify-msg', $('#tabs-contact-form-result').html()).html('');
+                    SEMICOLON.widget.notifications($('#tabs-contact-form-result'));
+                }
+            });
+        }
+    });
+</script>
+

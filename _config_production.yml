@@ -13,6 +13,11 @@ paginate: 10
 paginate_path: "/knowledge-centre/page/:num"
 twitter_username: jekyllrb
 github_username:  jekyll
-exclude: [/__wp_backup__/, lib, robots.txt, canvas]
+exclude: [/__wp_backup__/, lib, robots.txt, canvas, gulpfile.js]
 # Build settings
 markdown: kramdown
+
+###
+#  To publish production version
+# jekyll serve --config _config_production.yml
+###

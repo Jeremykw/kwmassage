@@ -16,5 +16,4 @@ exclude: [/__wp_backup__/, lib, canvas]
 # Build settings
 markdown: kramdown
 gems:
-    - jekyll-minifier
     - jekyll-paginate

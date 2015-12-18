@@ -3,7 +3,7 @@ var gulp = require('gulp'),
 	minifyCSS = require('gulp-minify-css'),
 	minifyHTML = require('gulp-minify-html');
 
-const SITE = '../kwmassage-stage' /* '_site_production'
+const SITE = '../kwmassage-stage' /* '_site_production' 
 
 /* Minify JS */
 gulp.task('js', function() {

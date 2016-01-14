@@ -34,15 +34,15 @@
 // 	};
 // };
 
-if (document.getElementById("slider")) {
-	document.getElementById("slider").classList.remove("slider-parallax");
-};
-if (document.getElementById("slider")){
-	document.getElementById("slider").classList.remove("page-title-parallax");
-};
-if (document.getElementById("testi_parallax")){
-	document.getElementById("testi_parallax").classList.remove("parallax");
-};
+// if (document.getElementById("slider")) {
+// 	document.getElementById("slider").classList.remove("slider-parallax");
+// };
+// if (document.getElementById("slider")){
+// 	document.getElementById("slider").classList.remove("page-title-parallax");
+// };
+// if (document.getElementById("testi_parallax")){
+// 	document.getElementById("testi_parallax").classList.remove("parallax");
+// };
 
 
 var $ = jQuery.noConflict();

@@ -28,7 +28,7 @@ END - detect ie
 /*
 remove parallax effect
 */
-if (!detectIE) {
+if (detectIE) {
 	if (document.getElementById("slider")) {
 		document.getElementById("slider").classList.remove("slider-parallax");
 	};

@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
   {% include page_head.html %}
-  <body class="stretched" style="margin-left: -15px; margin-right: 0;">
+  <body class="stretched">
+  <div>Test me 4</div>
   {% include google_tag %}
   <!-- Document Wrapper
     ============================================= -->
-    <div id="wrapper" class="clearfix" data-class-lg="homepage_margin_adjust" data-class-md="homepage_margin_adjust" data-class-sm="homepage_margin_adjust" data-class-xs="homepage_margin_adjust" data-class-xxs="">
+    <div id="wrapper" class="clearfix" style="margin-left: -20px;">
 
       {% include home_page_header.html %}
       {{content}}
-      {% include page_footer.html %}
+      <div style="width: 101%">{% include page_footer.html %}</div>
 
     </div>
     <!-- Footer Scripts

@@ -1,0 +1,11 @@
+Stage
+
+* build stage site: 		jekyll serve --config _config_stage.yml 
+* Minify:            		change const SITE to ../kwmassage-stage', gulp min
+* push to gh-pages:  		cd ../kwmassage-stage, git push origin gh-pages
+
+Production
+
+* build production site: 	jekyll serve --config _config_production.yml
+* Minify:					change const SITE to '_site_production', gulp min
+* Compress:					cd .../rails_dev/, tar -zcvf kwmassage.tar.gz kwmassage/_site_production

@@ -9,3 +9,8 @@ Production
 * build production site: 	jekyll serve --config _config_production.yml
 * Minify:					change const SITE to '_site_production', gulp min
 * Compress:					cd .../rails_dev/, tar -zcvf kwmassage.tar.gz kwmassage/_site_production
+
+Rails
+
+* build production site inside of rals: 	jekyll serve --config _config_rails.yml
+* Minify:									change const SITE to '../kw_hh/public', gulp min

@@ -10,7 +10,18 @@
 My Styles start
 
 */
+.rmtButton {
+	float: right;
+}
+.rmtButton a{
+	background-color: #3E91C7;
+	color: white;
 
+}
+.rmtButton a:hover{
+	background: #006cb8;
+	color: white;
+}
 .white_background{
 	background-color: white;
 }

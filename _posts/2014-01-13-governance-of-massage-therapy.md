@@ -2,6 +2,7 @@
 layout: post
 title: "Governance of massage therapy in Ontario"
 date: 2014-01-13 19:48:16
+excerpt_separator: "Massage Therapy is a regulated health proffession. The CMTO is the governing board that oversees massage therapist in Ontario"
 category: generalmassagetherapy
 slug: governance-of-massage-therapy
 post_id: 251

@@ -2,6 +2,7 @@
 layout: post
 title: "What Can Deep Tissue Massage Therapy Treat"
 date: 2014-03-01
+excerpt_separator: "Deep tissue massage can treat man things, including: Arthritis, Cramps, Joint Pain, Scars, Whiplash and more."
 category: generalmassagetherapy
 slug: what-can-deep-tissue-massage-treat
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy

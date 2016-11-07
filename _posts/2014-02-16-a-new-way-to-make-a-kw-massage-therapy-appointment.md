@@ -2,6 +2,7 @@
 layout: post
 title: "A New Way to Make a KW Massage Therapy Appointment"
 date: 2014-02-16 17:45:20
+excerpt_separator: "Cliniko will allow me to take appointments online, control my schedule, record clinical notes and more."
 category: generalmassagetherapy
 slug: a-new-way-to-make-a-kw-massage-therapy-appointment
 post_id: 401

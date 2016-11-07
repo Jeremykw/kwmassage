@@ -3,6 +3,7 @@ layout: post
 title: "Trigger Points and Trigger Point Therapy"
 date: 2014-01-12 22:17:35
 category: generalmassagetherapy
+excerpt_separator: "Trigger Points are part of muscle that has become hyper-sensitive and irritable. Trigger Points are found in a tight or stiff band of muscle, and they can be found in muscles throughout the body."
 slug: trigger-points-and-trigger-point-therapy
 post_id: 219
 ---

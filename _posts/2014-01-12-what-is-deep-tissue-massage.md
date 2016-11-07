@@ -3,6 +3,7 @@ layout: post
 title: "What is Deep Tissue Massage?"
 date: 2014-01-12 21:55:12
 category: generalmassagetherapy
+excerpt_separator: "Deep Tissue massage affects the deeper structures of the body and is very effective in treating chronic injuries."
 slug: what-is-deep-tissue-massage
 post_id: 211
 ---

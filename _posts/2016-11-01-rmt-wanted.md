@@ -4,7 +4,7 @@ title: "RMT Wanted"
 date: 2016-11-01 10:15:20
 category: generalmassagetherapy
 slug: rmt-wanted
-description: KW massage is looking to bring in a second massage therapist
+excerpt_separator: "KW massage is looking to bring in a second massage therapist."
 post_id: 401
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy
 ---

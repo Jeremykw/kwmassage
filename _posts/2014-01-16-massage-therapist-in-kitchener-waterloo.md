@@ -2,6 +2,7 @@
 layout: post
 title: "Massage Therapists in Kitchener and Waterloo "
 date: 2014-01-16 15:19:19
+excerpt_separator: "here are over 300 Registered Massage Therapists in the Kitchener- Waterloo area."
 category: generalmassagetherapy
 slug: massage-therapist-in-kitchener-waterloo
 post_id: 320

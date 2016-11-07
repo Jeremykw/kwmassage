@@ -2,6 +2,7 @@
 layout: post
 title: "Rock Climbers and Our Fingers "
 date: 2014-01-16 15:32:11
+excerpt_separator: "Rock climbers put strain on their fingers, which can encourage an injury. It’s important to understand  what to do if a finger injury happens."
 category: rock_climbing
 slug: rock-climbers-and-our-fingers
 post_id: 324

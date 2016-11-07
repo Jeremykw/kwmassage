@@ -3,6 +3,7 @@ layout: post
 title: "General Guidelines for Stretching"
 date: 2014-01-13 19:41:08
 category: stretching
+excerpt_separator: "You need to be careful not to injure yourself while stretching."
 slug: general-guidelines-for-stretching
 post_id: 249
 ---

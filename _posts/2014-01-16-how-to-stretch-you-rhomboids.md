@@ -3,6 +3,7 @@ layout: post
 title: "How to Stretch Your Rhomboids "
 date: 2014-01-16 15:24:08
 category: stretching
+excerpt_separator: "Rhomboids are muscles in between your shoulders. They get sore and stiff from working at a computer with poor posture."
 slug: how-to-stretch-you-rhomboids
 post_id: 322
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy, stretching, stretching, stretch rhomboid, how to stretch rhomboid 

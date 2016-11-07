@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "March Schedule "
+title: "March Schedule"
 date: 2014-01-13 21:34:41
 category: generalmassagetherapy
 slug: march-schedule

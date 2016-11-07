@@ -2,6 +2,7 @@
 layout: post
 title: "Climber’s Elbow"
 date: 2014-01-16 15:53:26
+excerpt_separator: "Left untreated, climber’s elbow (tennis elbow) can worsen quickly and take you out of climbing."
 category: rock_climbing
 slug: climbers-elbow-2
 post_id: 330

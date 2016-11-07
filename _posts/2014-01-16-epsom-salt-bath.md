@@ -2,6 +2,7 @@
 layout: post
 title: "Epsom Salt Bath "
 date: 2014-01-16 17:47:46
+excerpt_separator: "Because of the high magnesium content, Epsom salts bath can be helpful if you are suffering from muscle achiness or strain."
 category: generalmassagetherapy
 slug: epsom-salt-bath
 post_id: 357

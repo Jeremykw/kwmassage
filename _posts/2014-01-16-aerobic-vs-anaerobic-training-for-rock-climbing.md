@@ -2,6 +2,7 @@
 layout: post
 title: "Aerobic vs. Anaerobic Training for Rock Climbing "
 date: 2014-01-16 15:16:09
+excerpt_separator: "There are two different ways our muscles get the energy they need to perform during exercise: Aerobic and Anaerobic."
 category: generalmassagetherapy
 slug: aerobic-vs-anaerobic-training-for-rock-climbing
 post_id: 318

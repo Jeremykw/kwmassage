@@ -2,6 +2,7 @@
 layout: post
 title: "Back Pain and How to Massage at Home "
 date: 2014-01-16 16:21:56
+excerpt_separator: "Massaging yourself, a friend, or a loved one can be a great way to help relieve back pain."
 category: generalmassagetherapy
 slug: back-pain-and-how-to-massage-at-home
 post_id: 347
@@ -13,7 +14,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 
 <p>II often recommend stretching and strengthening exercises to enhance my massage therapy treatments. I also recommend <a href="{{site.url}}/generalmassagetherapy/epsom-salt-bath/index.html">hot and/or cold applications </a>a lot, depending on the injury.</p>
 
-<p>IOne thing I don’t talk much about in my <a title="clinic" href="{{site.url}}/clinic-information/index.html">clinic</a> is how to massage at home. I assume that a client will come into see me as often as necessary until they have recovered, so it isn’t beneficial to take the time to teach them how to massage at home. However, sometimes a client can’t see me as often as they would like. Under these situations, it can be very helpful to learn the basics of how to massage yourself, or someone else, at home. You can apply this information to any part of the body. Today, I’m going to focus on back pain.</p>
+<p>One thing I don’t talk much about in my <a title="clinic" href="{{site.url}}/clinic-information/index.html">clinic</a> is how to massage at home. I assume that a client will come into see me as often as necessary until they have recovered, so it isn’t beneficial to take the time to teach them how to massage at home. However, sometimes a client can’t see me as often as they would like. Under these situations, it can be very helpful to learn the basics of how to massage yourself, or someone else, at home. You can apply this information to any part of the body. Today, I’m going to focus on back pain.</p>
 
 <p>The trick to a successful massage consists of 3 basic principles:
 <ol class="leftmargin">
@@ -23,7 +24,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 </ol>
 Always follow these 3 principles when doing massage on yourself or anyone else.</p>
 
-<p>When I massaging, never dive right in and start treating the injured tissue directly right away. It’s important to always start broadly (general) and lightly (superficial). Gently work the muscles and tissues around the injury first. Once the general area is starting to soften and warm up, you can SLOWLY work your way in towards the muscles you are trying to affect. Once you are working directly on an injured muscle, it’s important that you use slow, firm pressure along the length of the muscle. After about 2 minutes of direct work, or until you feel the muscle start to soften, it’s time to slowly start working your way back out to the superficial and general areas around the injury.</p>
+<p>When massaging, I never dive right in and start treating the injured tissue directly right away. It’s important to always start broadly (general) and lightly (superficial). Gently work the muscles and tissues around the injury first. Once the general area is starting to soften and warm up, you can SLOWLY work your way in towards the muscles you are trying to affect. Once you are working directly on an injured muscle, it’s important that you use slow, firm pressure along the length of the muscle. After about 2 minutes of direct work, or until you feel the muscle start to soften, it’s time to slowly start working your way back out to the superficial and general areas around the injury.</p>
 
 <p>I Always start and end a massage treatment with gentle pressure. Never try to achieve the same pressure that a <a href="{{site.url}}/generalmassagetherapy/governance-of-massage-therapy/index.html">trained massage therapist </a>uses, you are likely to hurt the person you are working on as well as yourself. It takes a lot of time to develop the strength and control to do <a title="What is Deep Tissue Massage?" href="{{site.url}}/generalmassagetherapy/what-is-deep-tissue-massage/index.html">deep tissue therapy</a>.</p>
 

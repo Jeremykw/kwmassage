@@ -2,6 +2,7 @@
 layout: post
 title: "Stretch Your Levator Scapula "
 date: 2014-01-16 16:15:24
+excerpt_separator: "The Levator Scapula muscle runs from the top tip of the shoulder blade up to the top four joints of the neck."
 category: stretching
 slug: stretch-your-levator-scapula-2
 post_id: 342

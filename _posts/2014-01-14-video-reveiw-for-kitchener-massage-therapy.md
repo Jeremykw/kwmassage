@@ -2,6 +2,7 @@
 layout: post
 title: "Video Review for Kitchener Massage Therapy "
 date: 2014-01-14 20:18:35
+excerpt_separator: "Video review for Kithener Massage from Josh, a rock climber and business owner."
 category: generalmassagetherapy
 slug: video-reveiw-for-kitchener-massage-therapy
 post_id: 275

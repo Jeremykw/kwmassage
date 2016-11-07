@@ -2,6 +2,7 @@
 layout: post
 title: "Tension Headaches"
 date: 2014-01-13 19:49:41
+excerpt_separator: "There are things we can do to improve or prevent the crippling pain of a headache."
 category: generalmassagetherapy
 slug: tension-headaches-3
 post_id: 253

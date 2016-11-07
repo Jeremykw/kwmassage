@@ -3,6 +3,7 @@ layout: post
 title: "Does Deep Tissue Massage Hurt? "
 date: 2014-01-12 22:01:14
 category: generalmassagetherapy
+excerpt_separator: "Often deep tissue massage will cause some tenderness!"
 slug: does-deep-tissue-massage-heart
 post_id: 216
 ---

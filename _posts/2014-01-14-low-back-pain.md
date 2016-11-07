@@ -2,6 +2,7 @@
 layout: post
 title: "Low Back Pain "
 date: 2014-01-14 20:13:15
+excerpt_separator: "Low back pain is no laughing matter but Massage Therapy and regular stretching can help."
 category: generalmassagetherapy
 slug: low-back-pain
 post_id: 272

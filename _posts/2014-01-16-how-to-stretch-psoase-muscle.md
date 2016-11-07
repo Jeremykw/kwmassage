@@ -3,6 +3,7 @@ layout: post
 title: "How to Stretch Psoas Muscle "
 date: 2014-01-16 16:10:11
 category: stretching
+excerpt_separator: "The Psoas muscle is a strong muscle at the front of your hip. This is how to stretch the Psoas muscle."
 slug: how-to-stretch-psoase-muscle
 post_id: 338
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy, stretch, stretching, how to stretch psoas, psoas muscle

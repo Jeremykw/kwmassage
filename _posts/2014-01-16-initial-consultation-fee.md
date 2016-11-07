@@ -2,6 +2,7 @@
 layout: post
 title: "Do You Charge An Initial Consultation Fee For Massage Therapy Appointments?"
 date: 2014-01-16 16:26:49
+excerpt_separator: "I do not charge an initial consultation fee for massage therapy treatments"
 category: generalmassagetherapy
 slug: initial-consultation-fee
 post_id: 349

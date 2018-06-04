@@ -3,6 +3,7 @@ layout: post
 title: "Low Back Pain"
 date: 2015-02-16 20:13:15
 excerpt_separator: "Low back pain is no laughing matter but Massage Therapy and regular stretching can help."
+excerpt: "Low back pain is no laughing matter. Whether it is due to a sports injury, bad posture, or a repetitive strain injury at work, most of us, at one point in time, have had low back pain. No matter what the cause, low back pain is a disruption to our lives."
 category: generalmassagetherapy
 slug: low-back-pain
 post_id: 272

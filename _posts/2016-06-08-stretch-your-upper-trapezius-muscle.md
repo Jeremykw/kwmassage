@@ -1,7 +1,7 @@
 ---
 layout: redirect
 title: "Stretch Your Upper Trapezius Muscle"
-date: 2014-01-01
+date: 2016-06-08
 category: stretching
 slug: stretch-your-upper-trapezius-muscle
 redirect_url: /stretching/stretch-your-upper-trapezius-muscle-2/

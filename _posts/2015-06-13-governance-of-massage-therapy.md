@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Governance of massage therapy in Ontario"
-date: 2014-01-13 19:48:16
+date: 2015-06-13 19:48:16
 category: generalmassagetherapy
 slug: governance-of-massage-therapy
 post_id: 251

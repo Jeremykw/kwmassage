@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Stretch Psoas Muscle "
-date: 2014-01-16 16:10:11
+date: 2015-12-16 16:10:11
 category: stretching
 slug: how-to-stretch-psoase-muscle
 post_id: 338

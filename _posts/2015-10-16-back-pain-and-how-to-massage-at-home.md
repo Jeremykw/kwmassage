@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back Pain and How to Massage at Home "
-date: 2014-01-16 16:21:56
+date: 2015-10-16 16:21:56
 category: generalmassagetherapy
 slug: back-pain-and-how-to-massage-at-home
 post_id: 347

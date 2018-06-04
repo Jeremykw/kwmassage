@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trigger Points and Trigger Point Therapy"
-date: 2014-01-12 22:17:35
+date: 2015-03-12 22:17:35
 category: generalmassagetherapy
 slug: trigger-points-and-trigger-point-therapy
 post_id: 219

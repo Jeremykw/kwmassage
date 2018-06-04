@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stretch Your Levator Scapula "
-date: 2014-01-16 16:15:24
+date: 2016-05-16 16:15:24
 category: stretching
 slug: stretch-your-levator-scapula-2
 post_id: 342

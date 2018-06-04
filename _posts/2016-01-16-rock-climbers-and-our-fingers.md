@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rock Climbers and Our Fingers "
-date: 2014-01-16 15:32:11
+date: 2016-01-16 15:32:11
 category: rock_climbing
 slug: rock-climbers-and-our-fingers
 post_id: 324

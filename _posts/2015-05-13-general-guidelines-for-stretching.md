@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "General Guidelines for Stretching"
-date: 2014-01-13 19:41:08
+date: 2015-05-13 19:41:08
 category: stretching
 slug: general-guidelines-for-stretching
 post_id: 249

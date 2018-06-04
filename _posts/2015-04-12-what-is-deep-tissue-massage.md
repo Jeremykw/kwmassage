@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Deep Tissue Massage?"
-date: 2014-01-12 21:55:12
+date: 2015-04-12 21:55:12
 category: generalmassagetherapy
 slug: what-is-deep-tissue-massage
 post_id: 211

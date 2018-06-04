@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Low Back Pain "
-date: 2014-01-14 20:13:15
+title: "Low Back Pain"
+date: 2015-02-16 20:13:15
+excerpt_separator: "Low back pain is no laughing matter but Massage Therapy and regular stretching can help."
 category: generalmassagetherapy
 slug: low-back-pain
 post_id: 272
@@ -15,7 +16,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 
 <p>Often, that sharp localized pain in the low back is a facet joint compression. The facet joints are the small joints on either side of the spine between every spinal junction. An excessive backward bend or twist can compress or irritate these sensitive joints causing sharp pain. When one of these joints gets compressed, it can be very difficult to release these joints as the muscles around the joint will go into spasm holding the joint tight in its compressed position. It is very helpful to have a series of <a href="{{site.url}}/clinic-information/index.html">massage therapy </a>and chiropractic treatments to help correct this condition.</p>
 
-<p>Deep dull pain is often associated with muscle dysfunction. There are many common ways that muscles will create pain. <a title="Trigger Points and Trigger Point Therapy" href="{{site.url}}/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html">Trigger Points (TRP)</a>, scar tissue, spasms, and hypertonicity are the most common muscle dysfunctions that I see in my massage therapy <a title="clinic" href="{{site.url}}/clinic-information/index.html">clinic</a>.</p>
+<p>Deep dull pain is often associated with muscle dysfunction. There are many common ways that muscles will create pain. <a title="Trigger Points and Trigger Point Therapy" href="{{site.url}}/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html">Trigger Points (TRP)</a>, scar tissue, spasms, and hypertonicity are the most common muscle dysfunctions that I see in my massage therapy <a title="clinic" href="{{site.url}}/clinic-information/index.html">clinic</a>.</p>
 
 <p>All of these muscle dysfunctions are created by chronic repetitive actions, and these actions are especially harmful when the body is out of alignment or in an imbalanced position. People perform repetitive actions every single day, and sometimes without even realizing it:</p>
 

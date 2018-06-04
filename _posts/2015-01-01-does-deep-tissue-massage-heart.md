@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Does Deep Tissue Massage Hurt? "
-date: 2014-01-12 22:01:14
+date: 2015-01-01 22:01:14
 category: generalmassagetherapy
 slug: does-deep-tissue-massage-heart
 post_id: 216

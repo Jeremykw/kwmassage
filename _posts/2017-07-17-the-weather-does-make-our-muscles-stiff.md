@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Does the Weather Make our Muscles Stiff? "
-date: 2014-01-16 17:44:24
+date: 2017-07-17
 category: generalmassagetherapy
 slug: the-weather-does-make-our-muscles-stiff
 post_id: 355

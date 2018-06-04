@@ -15,5 +15,5 @@ github_username:  jekyll
 exclude: [/__wp_backup__/, lib, canvas, gulpfile.js, node_modules]
 # Build settings
 markdown: kramdown
-gems:
+plugins:
     - jekyll-paginate

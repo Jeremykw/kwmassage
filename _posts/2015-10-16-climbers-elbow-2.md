@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climber’s Elbow"
-date: 2014-01-16 15:53:26
+date: 2015-10-16 15:53:26
 category: rock_climbing
 slug: climbers-elbow-2
 post_id: 330

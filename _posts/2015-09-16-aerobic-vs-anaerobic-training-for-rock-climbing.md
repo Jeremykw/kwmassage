@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aerobic vs. Anaerobic Training for Rock Climbing "
-date: 2014-01-16 15:16:09
+date: 2015-09-16 15:16:09
 category: generalmassagetherapy
 slug: aerobic-vs-anaerobic-training-for-rock-climbing
 post_id: 318

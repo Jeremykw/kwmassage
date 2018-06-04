@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Massage Therapists in Kitchener and Waterloo "
-date: 2014-01-16 15:19:19
+date: 2016-03-16 15:19:19
 category: generalmassagetherapy
 slug: massage-therapist-in-kitchener-waterloo
 post_id: 320

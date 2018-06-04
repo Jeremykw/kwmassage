@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Stretch Your Rhomboids "
-date: 2014-01-16 15:24:08
+date: 2016-02-16 15:24:08
 category: stretching
 slug: how-to-stretch-you-rhomboids
 post_id: 322

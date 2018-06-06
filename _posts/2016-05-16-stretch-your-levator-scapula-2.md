@@ -11,7 +11,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 
 </p>
 
-<p>To stretch your <a href="{{site.url}}/generalmassagetherapy/tension-headaches-3/index.html">Levator Scapula </a>muscle, begin in a seated position. <img style="border: 1px solid black"class="fleft rightmargin-sm leftmargin-sm" alt="Sretch Levaor Scapula Muscle" src="{{site.url}}/wp-content/uploads/2014/01/levator-stretch-pic.jpg" width="191" height="120" /></p>
+<p>To stretch your <a href="{{site.url}}/generalmassagetherapy/tension-headaches-3/index.html">Levator Scapula </a>muscle, begin in a seated position.   <img style="border: 1px solid black"class="fleft rightmargin-sm leftmargin-sm" alt="Sretch Levaor Scapula Muscle" src="{{site.url}}/wp-content/uploads/2014/01/levator-stretch-pic.jpg" width="191" height="120"/></p>
 
 <p>With your shoulders relaxed and your head in a natural position, carefully tuck your chin towards your right armpit. If more pressure is needed to feel the stretch, you can use your right hand to gently pull from the top of your head toward the right armpit.</p>
 

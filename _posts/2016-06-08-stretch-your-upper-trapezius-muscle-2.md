@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stretch Your Upper Trapezius Muscle "
+title: "Stretch Your Upper Trapezius Muscle"
 date: 2016-06-08
 category: stretching
 slug: stretch-your-upper-trapezius-muscle-2

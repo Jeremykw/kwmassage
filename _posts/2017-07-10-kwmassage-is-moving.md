@@ -5,6 +5,7 @@ date: 2017-07-10
 excerpt_separator: "KWmassage is moving to a new lovation"
 category: generalmassagetherapy
 slug: kwmassage-is-moving
+excerpt: "KWmassage is moving to a new lovation"
 meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage therapist Kitchener , massage therapy Kitchener, Kitchener registered massage therapy, Kitchener registered massage therapist, registered massage therapist Kitchener , registered massage therapy Kitchener, Deep tissue massage, massage, sports massage, Kitchener sports massage, massage therapy, massage therapist, registered massage therapist, registered massage therapy, moving
 ---
 June 1st, 2017, the landlord who owns the space <a href="/index.html">KWmassage</a> has been using as a massage therapy office gave notice that he is unwilling to renew the lease. This came as a surprise but has been turned into a positive as I have found a perfect space to move the massage office to. Come September 1st 2017, KW massage will relocate to <a href="https://www.google.ca/maps/place/351+Carson+Dr,+Kitchener,+ON+N2B+2W3/@43.4608189,-80.4512459,17z/data=!3m1!4b1!4m5!3m4!1s0x882b8b517f22d729:0x3b6fd266d2e3745d!8m2!3d43.4608189!4d-80.4490572" target="_blank">351 Carson Drive, Kitchener, ON</a>.

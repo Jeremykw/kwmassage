@@ -1,13 +1,13 @@
 Stage
 
-* build stage site: 		jekyll serve --config _config_stage.yml 
+* build stage site: 		bundle exec jekyll serve --config _config_production.yml 
 * Minify:            		change const SITE to ../kwmassage-stage', gulp min
 * push to gh-pages:  		cd ../kwmassage-stage, git push origin gh-pages
 
 Production
 
-* build production site: 	jekyll build --config _config_production.yml
+* build production site: 	bundle exec jekyll build --config _config_production.yml
 * Minify:					change const SITE to '_site_production', gulp min
-* Compress:					cd .../rails_dev/, tar -zcvf kwmassage1_2018_05_06.tar.gz kwmassage/_site_production
+* Compress:					cd .../rails_dev/, tar -zcvf kwmassage1_2018_10_17.tar.gz kwmassage/_site_production
 
 ** DONT FORGET TO CONFIRM ANY FORMSPREE FORMS FOR NEW PAGES OR POSTS CRESTED **

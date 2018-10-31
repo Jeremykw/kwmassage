@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>KWmassage | Registered Massage Therapy in Kitchener/Waterloo</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jun 2018 16:15:05 -0400</pubDate>
-    <lastBuildDate>Wed, 06 Jun 2018 16:15:05 -0400</lastBuildDate>
-    <generator>Jekyll v3.8.2</generator>
+    <pubDate>Mon, 29 Oct 2018 16:55:16 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Oct 2018 16:55:16 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Does the Weather Make our Muscles Stiff? </title>
@@ -292,16 +292,14 @@
         <description>
 </description>
         <pubDate>Wed, 08 Jun 2016 00:00:00 -0400</pubDate>
-        <link>/stretching/stretch-your-upper-trapezius-muscle/</link>
-        <guid isPermaLink="true">/stretching/stretch-your-upper-trapezius-muscle/</guid>
+        <link>/stretch-your-upper-trapezius-muscle/</link>
+        <guid isPermaLink="true">/stretch-your-upper-trapezius-muscle/</guid>
         
-        
-        <category>stretching</category>
         
       </item>
     
       <item>
-        <title>Stretch Your Upper Trapezius Muscle </title>
+        <title>Stretch Your Upper Trapezius Muscle</title>
         <description>&lt;p&gt;To &lt;a href=&quot;/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt; your &lt;a href=&quot;/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;Upper Trapezius Muscle, &lt;/a&gt;begin in a seated position.With your shoulders relaxed and your head in a natural position, carefully bend your neck to bring your right ear toward your right armpit. If more pressure is needed to feel the &lt;a href=&quot;/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt;, you can use your right hand to gently pull from the side of your head just above your left ear toward your right armpit.
 
 &lt;/p&gt;
@@ -341,6 +339,84 @@
         
         
         <category>stretching</category>
+        
+      </item>
+    
+      <item>
+        <title>错误</title>
+        <description></description>
+        <pubDate>Sun, 03 Apr 2016 00:00:00 -0400</pubDate>
+        <link>/2016/04/03/%E9%94%99%E8%AF%AF.html</link>
+        <guid isPermaLink="true">/2016/04/03/%E9%94%99%E8%AF%AF.html</guid>
+        
+        
+        <category>vendor</category>
+        
+        <category>bundle</category>
+        
+        <category>ruby</category>
+        
+        <category>2.3.0</category>
+        
+        <category>gems</category>
+        
+        <category>jekyll-sitemap-1.2.0</category>
+        
+        <category>spec</category>
+        
+        <category>fixtures</category>
+        
+      </item>
+    
+      <item>
+        <title>错误</title>
+        <description></description>
+        <pubDate>Sat, 02 Apr 2016 00:00:00 -0400</pubDate>
+        <link>/2016/04/02/错误.html</link>
+        <guid isPermaLink="true">/2016/04/02/错误.html</guid>
+        
+        
+        <category>vendor</category>
+        
+        <category>bundle</category>
+        
+        <category>ruby</category>
+        
+        <category>2.3.0</category>
+        
+        <category>gems</category>
+        
+        <category>jekyll-sitemap-1.2.0</category>
+        
+        <category>spec</category>
+        
+        <category>fixtures</category>
+        
+      </item>
+    
+      <item>
+        <title>错误</title>
+        <description></description>
+        <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+        <link>/vendor/bundle/ruby/2.3.0/gems/jekyll-sitemap-1.2.0/spec/fixtures/%E9%94%99%E8%AF%AF/</link>
+        <guid isPermaLink="true">/vendor/bundle/ruby/2.3.0/gems/jekyll-sitemap-1.2.0/spec/fixtures/%E9%94%99%E8%AF%AF/</guid>
+        
+        
+        <category>vendor</category>
+        
+        <category>bundle</category>
+        
+        <category>ruby</category>
+        
+        <category>2.3.0</category>
+        
+        <category>gems</category>
+        
+        <category>jekyll-sitemap-1.2.0</category>
+        
+        <category>spec</category>
+        
+        <category>fixtures</category>
         
       </item>
     
@@ -387,63 +463,6 @@
         
         
         <category>stretching</category>
-        
-      </item>
-    
-      <item>
-        <title>Rock Climbers and Our Fingers </title>
-        <description>&lt;p&gt;Our fingers are some of our smallest extremities. &lt;a title=&quot;Rock Climbing Articles&quot; href=&quot;/knowledge-centre/rock-climbing/index.html&quot;&gt;Rock climbers&lt;/a&gt; put tremendous strain on their fingers, which can encourage an injury. It’s important to understand the anatomy of the hand and fingers to see what we can do to decrease the risk of climbing injury, and to also have a look at what to do if a finger injury happens.
-
-&lt;/p&gt;
-
-&lt;p&gt;Our fingers have no muscles, and our hands only have small muscles meant for fine, controlled movement; those hand muscles aren't meant for the powerful explosive force needed for &lt;a title=&quot;Rock Climbing as a Lifestyle&quot; href=&quot;/about/rock-climbing-as-a-lifestyle/index.html&quot;&gt;rock climbing&lt;/a&gt;. The energy needed for rock climbing comes from the forearms instead. Tendons run from the strong muscles in our forearms, through the wrists and the fingers, to supply the power needed to climb.&lt;/p&gt;
-
-&lt;p&gt;After the tendons pass through the wrist and hand, they run through ligaments in our fingers called annular ligaments. Annular ligaments redirect the pull of the tendons to move our fingers. These ligaments are like the guides on a fishing pole that bend a rod when force is applied to the end of the fishing line. It’s the A2 and the A3 annular pulleys of your index, middle, and ring finger that are the most prone for damage when climbing. When griping with and open hand grip, there is very little pressure put on the pulleys in the fingers. When griping with a crimping grip, the fingers are put in danger.
-When people start to climb, it can feel like there’s more strength using a crimp position. With practice, an open hand grip will feel more comfortable and strong. When you are climbing at your max, trying to get up a climb beyond your limits (which I strongly recommend you do to increase your skill), you will come across holds that you just need to crimp.&lt;/p&gt;
-
-&lt;p&gt;When you come across a hold you just can’t get with an open hand grip, try to use a grip half way between a crimp an open hand. When in a full crimp grip you can take a little force off your tendons and ligaments in your finger by placing your thumb on top of your index finger to add a little extra strength and support.&lt;/p&gt;
-
-&lt;p&gt;It takes a long time to develop climbing skill. Some people will start out doing 5.8 and 5.9 while others will start with 5.4 and 5.5. No matter where you start, anyone can end up climbing the 5.11’s and 5.12’s, it just takes time, effort, and patience.
-Regardless of how long you have been climbing or your skill level, your muscles will develop strength faster than your tendons and ligaments. You can easily increase your climbing power in a few months to a level that your ligaments and tendons can’t handle, which can lead to tendinitis, sprains, pulley injuries, and many other very uncomfortable problems that will put your climbing on hold.&lt;/p&gt;
-
-&lt;p&gt;So take your time. Train hard but be smart. Push your limits but not all day. Once you start feeling pain in your fingers, go down a grade or two or stop your session and stretch out. Don’t keep pulling on that crimp over and over again; you can come back to it in a few days.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 16 Jan 2016 10:32:11 -0500</pubDate>
-        <link>/rock_climbing/rock-climbers-and-our-fingers/</link>
-        <guid isPermaLink="true">/rock_climbing/rock-climbers-and-our-fingers/</guid>
-        
-        
-        <category>rock_climbing</category>
-        
-      </item>
-    
-      <item>
-        <title>Rock Climbers and Our Fingers</title>
-        <description>
-</description>
-        <pubDate>Sat, 16 Jan 2016 10:32:11 -0500</pubDate>
-        <link>/rock_climbing/206/</link>
-        <guid isPermaLink="true">/rock_climbing/206/</guid>
-        
-        
-        <category>rock_climbing</category>
-        
-      </item>
-    
-      <item>
-        <title>Epsom Salt Bath </title>
-        <description>&lt;p&gt;Because of the high magnesium content, Epsom salts bath can be helpful any time you are suffering from&lt;a href=&quot;/generalmassagetherapy/what-can-deep-tissue-massage-treat/index.html&quot;&gt; muscle achiness or strain&lt;/a&gt;. Please set aside 40 minutes and run a full bath, the temperature of the water should be as hot as you can comfortably tolerate (though please do not exceed 40 degrees Celsius). Place the Epsom salt bath crystals into the water and spend at least 20 minutes soaking and relaxing. &amp;lt;/br&amp;gt;&amp;lt;/br&amp;gt;
-
-Keeping your neck and shoulder in the water as much as possible will allow the salts to work directly on the problematic muscles. This is also a great time to enjoy a glass of cold water.&lt;/p&gt;
-
-&lt;p&gt;If you have a diagnosed heart condition or are over the age of 50, please moderate the water temperature and avoid submerging yourself in hot water above the heart. If you have any concerns about whether a hot Epsom salt bath will affect you adversely, please contact your family physician before using an Epsom salts bath.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 16 Dec 2015 12:47:46 -0500</pubDate>
-        <link>/generalmassagetherapy/epsom-salt-bath/</link>
-        <guid isPermaLink="true">/generalmassagetherapy/epsom-salt-bath/</guid>
-        
-        
-        <category>generalmassagetherapy</category>
         
       </item>
     

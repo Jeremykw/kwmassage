@@ -18,6 +18,7 @@ exclude: [/__wp_backup__/, lib, robots.txt, canvas, gulpfile.js, node_modules]
 markdown: kramdown
 plugins:
     - jekyll-paginate
+    - jekyll-sitemap
 
 ###
 #  To publish production version

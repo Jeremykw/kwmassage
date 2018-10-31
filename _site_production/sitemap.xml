@@ -828,7 +828,7 @@
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/block/15_math/itex2mml.html</loc>
-<lastmod>2018-10-26T17:27:20-04:00</lastmod>
+<lastmod>2018-10-31T13:54:02-04:00</lastmod>
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/block/15_math/mathjax_preview.html</loc>
@@ -852,7 +852,7 @@
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/block/15_math/ritex.html</loc>
-<lastmod>2018-10-26T17:27:20-04:00</lastmod>
+<lastmod>2018-10-31T13:54:03-04:00</lastmod>
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/block/16_toc/no_toc.html</loc>
@@ -1068,7 +1068,7 @@
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/span/math/itex2mml.html</loc>
-<lastmod>2018-10-26T17:27:20-04:00</lastmod>
+<lastmod>2018-10-31T13:54:04-04:00</lastmod>
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/span/math/no_engine.html</loc>
@@ -1080,7 +1080,7 @@
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/span/math/ritex.html</loc>
-<lastmod>2018-10-26T17:27:20-04:00</lastmod>
+<lastmod>2018-10-31T13:54:05-04:00</lastmod>
 </url>
 <url>
 <loc>/vendor/bundle/ruby/2.3.0/gems/kramdown-1.17.0/test/testcases/span/text_substitutions/entities.html</loc>

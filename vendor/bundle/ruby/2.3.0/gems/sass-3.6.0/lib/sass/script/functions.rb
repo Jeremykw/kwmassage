@@ -766,7 +766,7 @@ module Sass::Script
     # Creates a {Sass::Script::Value::Color Color} from hue, saturation, and
     # lightness values. Uses the algorithm from the [CSS3 spec][].
     #
-    # [CSS3 spec]: https://www.w3.org/TR/css3-color/#hsl-color
+    # [CSS3 spec]: http://www.w3.org/TR/css3-color/#hsl-color
     #
     # @see #hsla
     # @overload hsl($hue, $saturation, $lightness)
@@ -802,7 +802,7 @@ module Sass::Script
     # saturation, lightness, and alpha values. Uses the algorithm from
     # the [CSS3 spec][].
     #
-    # [CSS3 spec]: https://www.w3.org/TR/css3-color/#hsl-color
+    # [CSS3 spec]: http://www.w3.org/TR/css3-color/#hsl-color
     #
     # @see #hsl
     # @overload hsla($hue, $saturation, $lightness, $alpha)
@@ -860,7 +860,7 @@ module Sass::Script
     # Gets the red component of a color. Calculated from HSL where necessary via
     # [this algorithm][hsl-to-rgb].
     #
-    # [hsl-to-rgb]: https://www.w3.org/TR/css3-color/#hsl-color
+    # [hsl-to-rgb]: http://www.w3.org/TR/css3-color/#hsl-color
     #
     # @overload red($color)
     #   @param $color [Sass::Script::Value::Color]
@@ -876,7 +876,7 @@ module Sass::Script
     # Gets the green component of a color. Calculated from HSL where necessary
     # via [this algorithm][hsl-to-rgb].
     #
-    # [hsl-to-rgb]: https://www.w3.org/TR/css3-color/#hsl-color
+    # [hsl-to-rgb]: http://www.w3.org/TR/css3-color/#hsl-color
     #
     # @overload green($color)
     #   @param $color [Sass::Script::Value::Color]
@@ -892,7 +892,7 @@ module Sass::Script
     # Gets the blue component of a color. Calculated from HSL where necessary
     # via [this algorithm][hsl-to-rgb].
     #
-    # [hsl-to-rgb]: https://www.w3.org/TR/css3-color/#hsl-color
+    # [hsl-to-rgb]: http://www.w3.org/TR/css3-color/#hsl-color
     #
     # @overload blue($color)
     #   @param $color [Sass::Script::Value::Color]
@@ -1719,7 +1719,7 @@ MESSAGE
     # * `units-level-3` indicates full support for unit arithmetic using units
     #   defined in the [Values and Units Level 3][] spec.
     #
-    # [Values and Units Level 3]: https://www.w3.org/TR/css3-values/
+    # [Values and Units Level 3]: http://www.w3.org/TR/css3-values/
     #
     # * `at-error` indicates that the Sass `@error` directive is supported.
     #

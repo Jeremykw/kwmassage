@@ -6,7 +6,8 @@ Stage
 
 Production
 
-* build production site: 	bundle exec jekyll build --config _config_production.yml
+* build production site: 	bundle exec jekyll serve --config _config_production.yml 
+
 * Minify:					change const SITE to '_site_production', gulp min
 * Compress:					cd .../rails_dev/, tar -zcvf kwmassage1_2018_10_17.tar.gz kwmassage/_site_production
 

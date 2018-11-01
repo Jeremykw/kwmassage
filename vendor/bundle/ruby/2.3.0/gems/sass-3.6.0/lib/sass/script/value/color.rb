@@ -649,7 +649,7 @@ module Sass::Script::Value
       s = @attrs[:saturation] / 100.0
       l = @attrs[:lightness] / 100.0
 
-      # Algorithm from the CSS3 spec: https://www.w3.org/TR/css3-color/#hsl-color.
+      # Algorithm from the CSS3 spec: http://www.w3.org/TR/css3-color/#hsl-color.
       m2 = l <= 0.5 ? l * (s + 1) : l + s - l * s
       m1 = l * 2 - m2
       @attrs[:red], @attrs[:green], @attrs[:blue] = [

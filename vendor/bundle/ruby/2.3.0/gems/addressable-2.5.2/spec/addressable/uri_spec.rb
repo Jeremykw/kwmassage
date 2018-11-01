@@ -1975,9 +1975,9 @@ end
 
 # Section 5.1.2 of RFC 2616
 describe Addressable::URI, "when parsed from " +
-    "'https://www.w3.org/pub/WWW/TheProject.html'" do
+    "'HTTP://www.w3.org/pub/WWW/TheProject.html'" do
   before do
-    @uri = Addressable::URI.parse("https://www.w3.org/pub/WWW/TheProject.html")
+    @uri = Addressable::URI.parse("HTTP://www.w3.org/pub/WWW/TheProject.html")
   end
 
   it "should have the correct request URI" do

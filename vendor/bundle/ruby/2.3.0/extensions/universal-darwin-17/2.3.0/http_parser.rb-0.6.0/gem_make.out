@@ -1,5 +1,5 @@
 current directory: /Users/jeremybissonnette/dev/kwmassage/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181026-41593-1815p08.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20181101-67528-ae1bux.rb extconf.rb
 creating Makefile
 
 current directory: /Users/jeremybissonnette/dev/kwmassage/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
@@ -20,4 +20,4 @@ ld: warning: The i386 architecture is deprecated for macOS (remove from the Xcod
 
 current directory: /Users/jeremybissonnette/dev/kwmassage/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20181026-41593-10u03sz
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20181101-67528-1c0g5zm

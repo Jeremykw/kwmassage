@@ -13,7 +13,15 @@ paginate: 10
 paginate_path: "/knowledge-centre/page/:num"
 twitter_username: jekyllrb
 github_username:  jekyll
-exclude: [/__wp_backup__/, lib, canvas, gulpfile.js, node_modules]
+exclude: [/__wp_backup__/, 
+          lib, 
+          canvas, 
+          gulpfile.js, 
+          node_modules,
+          vendor,
+          Gemfile,
+          Gemfile.lock,
+          package-lock.json]
 # Build settings
 markdown: kramdown
 plugins:

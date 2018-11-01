@@ -80,7 +80,7 @@ SCSS
   end
 
   def test_crazy_comments
-    # https://www.w3.org/Style/CSS/Test/CSS2.1/current/xhtml1/t040109-c17-comments-00-b.xht
+    # http://www.w3.org/Style/CSS/Test/CSS2.1/current/xhtml1/t040109-c17-comments-00-b.xht
     assert_equal <<CSS, render(<<SCSS)
 /* This is a CSS comment. */
 .one {
@@ -447,9 +447,9 @@ SCSS
   ## Directives
 
   def test_namespace_directive
-    assert_parses '@namespace "https://www.w3.org/Profiles/xhtml1-strict";'
-    assert_parses '@namespace url(https://www.w3.org/Profiles/xhtml1-strict);'
-    assert_parses '@namespace html url("https://www.w3.org/Profiles/xhtml1-strict");'
+    assert_parses '@namespace "http://www.w3.org/Profiles/xhtml1-strict";'
+    assert_parses '@namespace url(http://www.w3.org/Profiles/xhtml1-strict);'
+    assert_parses '@namespace html url("http://www.w3.org/Profiles/xhtml1-strict");'
   end
 
   def test_media_directive
@@ -601,15 +601,15 @@ SCSS
 
   def test_moz_document_directive
     assert_equal <<CSS, render(<<SCSS)
-@-moz-document url(https://www.w3.org/),
-               url-prefix(https://www.w3.org/Style/),
+@-moz-document url(http://www.w3.org/),
+               url-prefix(http://www.w3.org/Style/),
                domain(mozilla.org),
                regexp("^https:.*") {
   .foo {
     a: b; } }
 CSS
-@-moz-document url(https://www.w3.org/),
-               url-prefix(https://www.w3.org/Style/),
+@-moz-document url(http://www.w3.org/),
+               url-prefix(http://www.w3.org/Style/),
                domain(mozilla.org),
                regexp("^https:.*") {
   .foo {a: b}

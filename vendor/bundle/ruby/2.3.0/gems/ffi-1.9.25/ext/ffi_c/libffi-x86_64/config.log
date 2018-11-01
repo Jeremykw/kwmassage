@@ -30,8 +30,8 @@ Kernel configured for up to 4 processors.
 Processor type: i486 (Intel 80486)
 Processors active: 0 1 2 3
 Primary memory available: 16.00 gigabytes
-Default processor set: 359 tasks, 1805 threads, 4 processors
-Load average: 3.38, Mach factor: 0.82
+Default processor set: 381 tasks, 2031 threads, 4 processors
+Load average: 2.03, Mach factor: 1.95
 /bin/machine           = unknown
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
@@ -83,13 +83,13 @@ configure:3519: checking for x86_64-apple-darwin-gcc
 configure:3546: result:  xcrun clang
 configure:3815: checking for C compiler version
 configure:3824:  xcrun clang --version >&5
-Apple LLVM version 10.0.0 (clang-1000.10.44.2)
+Apple LLVM version 10.0.0 (clang-1000.10.44.4)
 Target: x86_64-apple-darwin17.7.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 configure:3835: $? = 0
 configure:3824:  xcrun clang -v >&5
-Apple LLVM version 10.0.0 (clang-1000.10.44.2)
+Apple LLVM version 10.0.0 (clang-1000.10.44.4)
 Target: x86_64-apple-darwin17.7.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
@@ -175,7 +175,7 @@ configure:4624: found /usr/bin/g++
 configure:4635: result: g++
 configure:4662: checking for C++ compiler version
 configure:4671: g++ --version >&5
-Apple LLVM version 10.0.0 (clang-1000.10.44.2)
+Apple LLVM version 10.0.0 (clang-1000.10.44.4)
 Target: x86_64-apple-darwin17.7.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
@@ -183,7 +183,7 @@ Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-inc
 configure:4682: $? = 0
 configure:4671: g++ -v >&5
 Configured with: --prefix=/Library/Developer/CommandLineTools/usr --with-gxx-include-dir=/usr/include/c++/4.2.1
-Apple LLVM version 10.0.0 (clang-1000.10.44.2)
+Apple LLVM version 10.0.0 (clang-1000.10.44.4)
 Target: x86_64-apple-darwin17.7.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin

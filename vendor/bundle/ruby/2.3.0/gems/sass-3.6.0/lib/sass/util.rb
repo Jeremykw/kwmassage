@@ -736,7 +736,7 @@ module Sass
     #   contents are invalid in the native encoding.
     def check_sass_encoding(str)
       # Determine the fallback encoding following section 3.2 of CSS Syntax Level 3 and Encodings:
-      # https://www.w3.org/TR/2013/WD-css-syntax-3-20130919/#determine-the-fallback-encoding
+      # http://www.w3.org/TR/2013/WD-css-syntax-3-20130919/#determine-the-fallback-encoding
       # http://encoding.spec.whatwg.org/#decode
       binary = str.dup.force_encoding("BINARY")
       if binary.start_with?(UTF_8_BOM)

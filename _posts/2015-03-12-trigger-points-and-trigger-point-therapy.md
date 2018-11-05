@@ -16,7 +16,7 @@ post_id: 219
 
 <p>Trigger Points are sensitive to touch and they usually have a pattern of pain that presents in another part of the body. Sometimes where you hurt is not necessarily where the problem needs to be treated. The Trigger Point Chart below shows you how this referral pain travels. A Trigger Point in the Lower Trapezius muscle (represented as an X in the pink area) can show up as pain at the base of the skull because a Trigger Point in that one muscle can affect a significant area. It is very common to have pain referred from one part of your body to another, and I use Trigger Point Charts in my office to locate, connect, and treat pain on a regular basis.</p>
 
-<img style="border: 1px solid black"class="fleft rightmargin-sm leftmargin-sm"  alt="massage therapis trigger point chart" src="{{site.url}}/wp-content/uploads/2014/01/trigger_point_chart-300x247.jpg" width="300" height="247" />
+<img style="border: 1px solid black" class="fleft rightmargin-sm leftmargin-sm"  alt="massage therapis trigger point chart" src="{{site.url}}/wp-content/uploads/2014/01/trigger_point_chart-300x247.jpg" width="300" height="247" />
 
 <p>Over time, trigger points can create a chronic shortening of affected muscle, and trigger points are often responsible for many chronic pain syndromes such as torticollis, <a href="{{site.url}}/generalmassagetherapy/tension-headaches-3/index.html">headaches</a>, <a href="{{site.url}}/generalmassagetherapy/low-back-pain/index.html">back pain</a>, knee pain, and postural stress.</p>
 

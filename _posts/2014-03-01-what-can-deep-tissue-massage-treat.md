@@ -18,7 +18,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 		<li>Compression syndromes</li>
 		<li>Contractures</li>
 		<li>Cramps</li>
-		<li>Degenerative disc disease(DDD)</li>
+		<li><a href="{{site.url}}/generalmassagetherapy/degenerative_disc_disease/index.html">Degenerative disc disease(DDD)</a></li>
 		<li>Dislocations</li>
 		<li>Dupuytrens' contracture</li>
 		<li>Fibrositis and fibrosis</li>

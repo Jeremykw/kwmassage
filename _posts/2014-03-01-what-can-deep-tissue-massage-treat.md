@@ -24,7 +24,7 @@ meta_keywords: Kitchener massage therapy, Kitchener massage therapist, massage t
 		<li>Fibrositis and fibrosis</li>
 		<li>Foot/plantar fasciitis/ples planus - flat foot fractures</li>
 		<li>Frozen shoulder</li>
-		<li><a href="{{site.url}}/generalmassagetherapy/tension-headaches-3/index.html">Headache / migraine</a></li>
+		<li><a href="{{site.url}}/generalmassagetherapy/tension-headaches-3/index.html">Headache / Migraine</a></li>
 		<li>Herniated disc</li>
 		<li>Iliotibial band contracture</li>
 		<li>Jaw pain/TMJ</li>

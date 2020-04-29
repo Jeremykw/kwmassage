@@ -1,8 +1,7 @@
 ***
 This is an adaptation of the original KWmassage.com WordPress website.
-Jekyll is now used to generate a static version of the website, ./lib/
-massage_importer.rb was written to import data into the new jekyll site 
-from the ./lib/kwmassage_export.xml file.
+Jekyll is now used to generate a static version of the website, 
+./libmassage_importer.rb was written to import data into the new jekyll site from the ./lib/kwmassage_export.xml file.
 ***
 
 * to run locally 'bundle exec jekyll serve'

@@ -13156,3 +13156,19 @@ body:not(.no-transition) #wrapper,
 	padding:0!important
 }
 
+/* Covid */
+.tab_buttons{
+	display: grid;
+	grid-template-columns: auto auto;
+	justify-content: end;
+	grid-gap: 10px;
+}
+
+.tab_buttons_small{
+	display: grid;
+	grid-template-columns: 1fr;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+/* End Covid */
+

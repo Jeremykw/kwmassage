@@ -4,39 +4,77 @@
     <title>KWmassage | Registered Massage Therapy in Kitchener/Waterloo</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Feb 2020 11:26:41 -0500</pubDate>
-    <lastBuildDate>Thu, 27 Feb 2020 11:26:41 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <link>https://www.kwmassage.com/</link>
+    <atom:link href="https://www.kwmassage.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 31 May 2020 10:51:20 -0400</pubDate>
+    <lastBuildDate>Sun, 31 May 2020 10:51:20 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Maizey The Office DOg</title>
-        <description>&lt;p&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; width=&quot;191&quot; height=&quot;169&quot; alt=&quot;Maizey1&quot; src=&quot;http://localhost:4000/assets/images/maizey1.jpg&quot; /&gt;&lt;/p&gt;
+        <title>Covid-19</title>
+        <description>&lt;p&gt;As many of you are already aware, restrictions were lifted earlier this week by our Provincial government for medical practitioners in healthcare fields such as Physiotherapy, Chiropractic, and Massage Therapy to allow us to reopen our practices. I will be slowly reopening my practice starting on June 8th.&lt;/p&gt;
 
-&lt;p&gt;Maizey is a 5 month old puppy(as of February 2020). We adopted her as a family pet and office dog, December of 2019. She is very adorable, very well behaved for her age and a gentle soul. &lt;/p&gt;
+&lt;p&gt;Overall public safety is of utmost importance to all of us. I have thoroughly reviewed new policies and procedures that have been put into place by the College of Massage Therapists of Ontario(CMTO) and the Ontario government, in order to keep everyone safe through these changing times. Based on these regulations new clinic policies have been put into place:&lt;/p&gt;
 
-&lt;p&gt;Maizey was adopted as a rescue from the Island of Bahamas. After hurricane Dorian(August 28th, 2019) many of the island dogs were rescued by an animal shelter, &lt;a href=&quot;http://www.potcakeplace.com/&quot; title=&quot;potcake place&quot;&gt;The PotCake Place&lt;/a&gt;. When Maizey was found on the streets she was malnourished, completely bald and had rickets. After being nursed back to health she was vaccinated, put on an airplane to canada then eventually landed in my family's home. Despite her early hardships she is a loving and kind puppy. Though she is still a little timid, which we are helping her work through. 
+&lt;ul style=&quot;margin-left: 60px&quot;&gt;
+	&lt;li&gt;I will wear a clean disposable surgical quality mask throughout the entire treatment&lt;/li&gt;
+	&lt;li&gt;You will be required  to come to the appointment wearing a clean disposable or reusable mask to be worn throughout the treatment. If you don’t have an appropriate face covering available, I will be able to provide one upon request&lt;/li&gt;
+	&lt;li&gt;You will be required to conduct a self screening for Covid-19 before coming to the clinic by using the Ontario government's Covid-19 self assessment tool, I will conduct a second screening immediately prior to treatment&lt;/li&gt;
+	&lt;li&gt;Hand disinfectant and a hand washing station will be available please disinfect your hands when you arrive and before you leave&lt;/li&gt;
+	&lt;li&gt;You should arrive alone (where possible) and as close to your appointment time as possible. If you arrive more than 5 minuts early, please stay in your car or wait outside&lt;/li&gt;
+	&lt;li&gt;I will maintain a roster of all people entering the space (including their name and phone number) to assist with contact tracing if required, ensuring client confidentiality is maintained&lt;/li&gt;
+	&lt;li&gt;
+		I will maintain and document a cleaning schedule above and beyond my regular cleaning schedule
+		&lt;ul style=&quot;margin-left: 30px&quot;&gt;
+			&lt;li&gt;High touch surfaces including but not limited to: doorknobs, light switches, washrooms including toilet handles, counters, handrails, arm rests, and electronics&lt;/li&gt;
+			&lt;li&gt;Extra care and attention will given to the massage table and face cradle&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have a long list of canceled appointments due to Covid-19 state of emergency. I have been and will continue to contact each one of these people directly to find a new appointment  time. If I have not had the chance to reach out to you yet, please don't hesitate to contact me. I will need to  prioritize appointments based on severity and condition and the time frame that the last appointment was scheduled.&lt;/p&gt;
+
+&lt;p&gt;If you feel you pass &lt;a href=&quot;https://covid-19.ontario.ca/self-assessment/&quot;&gt;preliminary pre-screening&lt;/a&gt; against Covid-19, please use the &lt;a href=&quot;https://www.kwmassage.com/clinic-information/index.html&quot; title=&quot;potcake place&quot;&gt;online scheduling tool&lt;/a&gt; or contact me directly by phone (519)745-4112 or &lt;a href=&quot;mailto:jeremy@kwmassage.com&quot;&gt;email&lt;/a&gt; to make an appointment. I look forward to getting back to work and seeing all of you soon.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or concerns don't hesitate to contact me directly or visit the &lt;a href=&quot;https://www.cmto.com/covid-19/&quot;&gt;CMTO's website&lt;/a&gt; or the &lt;a href=&quot;https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html&quot;&gt;Government of Ontario Coronavirus&lt;/a&gt; website.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 30 May 2020 00:00:00 -0400</pubDate>
+        <link>https://www.kwmassage.com/generalmassagetherapy/covid-19/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/covid-19/</guid>
+        
+        
+        <category>generalmassagetherapy</category>
+        
+      </item>
+    
+      <item>
+        <title>Maziey The Office DOg</title>
+        <description>&lt;p&gt;Maziey is an 8 month old puppy(as of May 2020). We adopted her as a family pet and office dog, December of 2019. She is very adorable, very well behaved for her age and a gentle soul. &lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; width=&quot;191&quot; height=&quot;169&quot; alt=&quot;Maziey1&quot; src=&quot;https://www.kwmassage.com/assets/images/maizey1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maziey was adopted as a rescue from the Island of Bahamas. After hurricane Dorian(August 28th, 2019) many of the island dogs were rescued by an animal shelter, &lt;a href=&quot;http://www.potcakeplace.com/&quot; title=&quot;potcake place&quot;&gt;The PotCake Place&lt;/a&gt;. When Maziey was found on the streets she was malnourished, completely bald and had rickets. After being nursed back to health she was vaccinated, put on an airplane to canada then eventually landed in my family's home. Despite her early hardships she is a loving and kind puppy. Though she is still a little timid, which we are helping her work through. 
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;fright rightmargin-sm leftmargin-sm&quot; width=&quot;321&quot; height=&quot;138&quot; alt=&quot;Maizey2&quot; src=&quot;http://localhost:4000/assets/images/maizey2.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;fright rightmargin-sm leftmargin-sm&quot; width=&quot;321&quot; height=&quot;138&quot; alt=&quot;Maziey2&quot; src=&quot;https://www.kwmassage.com/assets/images/maizey2.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;One of my hope’s for Maizey is for her to be a massage therapy room office dog and spend some of her day by the fireplace like our old cat Elliott would before he passed away. She is also being crate trained so that when the therapy room isn't an option for her she can be upstairs safely by herself. Her training is coming along very well but she is still young and I can’t expect perfect behaviour yet. &lt;/p&gt;
+&lt;p&gt;One of my hope’s for Maziey is for her to be a massage therapy room office dog and spend some of her day by the fireplace like our old cat Elliott would before he passed away. She is also being crate trained so that when the therapy room isn't an option for her she can be upstairs safely by herself. Her training is coming along very well but she is still young and I can’t expect perfect behaviour yet. &lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;fright rightmargin-sm leftmargin-sm&quot; width=&quot;403&quot; height=&quot;190&quot; alt=&quot;Maizey3&quot; src=&quot;http://localhost:4000/assets/images/maizey3.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;fright rightmargin-sm leftmargin-sm&quot; width=&quot;403&quot; height=&quot;190&quot; alt=&quot;Maziey3&quot; src=&quot;https://www.kwmassage.com/assets/images/maizey3.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I find her to be surprisingly smart, she is learning all the basic commands quickly, as well as many tricks. She has completed her level one obedience training and is scheduled for level two next month. We hope to complete level four eventually and then apply for therapy dog status. At the moment she is being taught to greet people nicely at the front door. Door greeting is coming along nicely but one thing everyone can help me with now is to turn your back to her if she jumps up on you as you come in the door, once she sits nicely you can greet her in anyway you like. &lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; width=&quot;184&quot; height=&quot;176&quot; alt=&quot;Maizey4&quot; src=&quot;http://localhost:4000/assets/images/maizey4.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; width=&quot;184&quot; height=&quot;176&quot; alt=&quot;Maziey4&quot; src=&quot;https://www.kwmassage.com/assets/images/maizey4.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I want everyone know Maizey will be here in case you have allergies to dogs. Also if you have a fear, dislike or phobia of dogs please let me know before any upcoming massage appointments and I will make sure she is nestled upstairs in her kennel safely before you get here, I will completely understand.&lt;/p&gt;
+&lt;p&gt;I want everyone know Maziey will be here in case you have allergies to dogs. Also if you have a fear, dislike or phobia of dogs please let me know before any upcoming massage appointments and I will make sure she is nestled upstairs in her kennel safely before you get here, I will completely understand.&lt;/p&gt;
 
-&lt;p&gt;If you have any questions or concerns Please let me know. Otherwise Maizey and I will look forward to seeing you soon.&lt;/p&gt;
+&lt;p&gt;If you have any questions or concerns Please let me know. Otherwise Maziey and I will look forward to seeing you soon.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/officedog/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/officedog/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/officedog/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/officedog/</guid>
         
         
         <category>generalmassagetherapy</category>
@@ -47,7 +85,7 @@
         <title>The Acuball</title>
         <description>&lt;p&gt;I'm trying something new this month, I've brought in a product for resale. The &lt;a href=&quot;https://acuball.com/product/dr-cohens-acuball/?affiliates=19&quot; target=&quot;_blank&quot; title=&quot;Acuball&quot;&gt;Acuball&lt;/a&gt; is something that has been floating around my house for a few years. It's something that I lean on regularly for my own aches and pains. And I often find myself recommending my clients go buy one somewhere else or use a lacrosse ball to achieve a similar effect. I feel that it will be helpful to keep a few in the clinic so that clients can take home exactly what I’m showing them. &lt;/p&gt;
 
-&lt;p&gt;I do find that the heat the Acuball provides creates a superior effect over an old lacrosse ball. The way heat relaxes your muscles combined with the effect of &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html&quot; title=&quot;Trigger Point Release&quot;&gt;Trigger Point Release&lt;/a&gt; and facial release from the ball at the same time, work to create a very full release. 
+&lt;p&gt;I do find that the heat the Acuball provides creates a superior effect over an old lacrosse ball. The way heat relaxes your muscles combined with the effect of &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html&quot; title=&quot;Trigger Point Release&quot;&gt;Trigger Point Release&lt;/a&gt; and facial release from the ball at the same time, work to create a very full release. 
 &lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;vertabra&quot; src=&quot;https://acuball.com/wp-content/uploads/2017/11/1-acuball.jpg&quot; /&gt;&lt;/p&gt;
@@ -57,8 +95,8 @@
 &lt;p&gt;You can find the Acuball and its brother and sister products the &lt;a href=&quot;https://acuball.com/product/acuball-mini/?affiliates=19&quot; target=&quot;_blank&quot; title=&quot;Acuball Mini&quot;&gt;Acuball mini&lt;/a&gt;, &lt;a href=&quot;https://acuball.com/product/dr-cohen-heatable-acupad/?affiliates=19&quot; target=&quot;_blank&quot; title=&quot;Acupad&quot;&gt;Acupad&lt;/a&gt; and the &lt;a href=&quot;https://acuball.com/product/dr-cohen-heatable-acupad/?affiliates=19&quot; target=&quot;_blank&quot; title=&quot;Acupad&quot;&gt;Acupad&lt;/a&gt; on their website or by coming into the Kitchener Massage Therapy clinic.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Nov 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/acuball/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/acuball/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/acuball/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/acuball/</guid>
         
         
         <category>generalmassagetherapy</category>
@@ -69,14 +107,14 @@
         <title>Degenerative Disc Disease</title>
         <description>&lt;p&gt;Degeneration of the vertebral discs is a natural process as a person ages. The discs undergo slow wear and tear over many years, as a side effect of normal daily stresses. As this process continues the size and shape of the discs change, the discs loose vertical height, therefore leading to less space between each vertebra. Though not always symptomatic, Degenerative Disc Disease(DDD) can cause acute or chronic pain.&lt;/p&gt;
 
-&lt;p&gt;Between the vertebrae, exiting from the spinal cord travel the &lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;vertabra&quot; src=&quot;http://localhost:4000/assets/images/vertabra.png&quot; /&gt;peripheral nerves, which connect the central nervous system to the limbs. As the space between the vertebrae decreases, the root of the peripheral nerves can become compressed. This compression can create pain, weakness and numbness in the low back, hips and legs.&lt;/p&gt;
+&lt;p&gt;Between the vertebrae, exiting from the spinal cord travel the &lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;vertabra&quot; src=&quot;https://www.kwmassage.com/assets/images/vertabra.png&quot; /&gt;peripheral nerves, which connect the central nervous system to the limbs. As the space between the vertebrae decreases, the root of the peripheral nerves can become compressed. This compression can create pain, weakness and numbness in the low back, hips and legs.&lt;/p&gt;
 
 &lt;p&gt;Treatment for DDD depends to many factors including stage of degeneration, how acute or chronic it is, compounding injuries, age and posture all play a role in how to approach treatment. Treatment can range from medical intervention with anti-inflammatories to surgeries or paramedical services like physiotherapy, chiropractors or massage therapy. Also, regular exercise and stretching can be very helpful but it is important to see a medical professional who can do a proper assessment any time you are experiencing back pain, as it's easy to make an injuries worse by not know what exercises and stretches will help and which ones will hurt.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/degenerative_disc_disease/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/degenerative_disc_disease/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/degenerative_disc_disease/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/degenerative_disc_disease/</guid>
         
         
         <category>generalmassagetherapy</category>
@@ -85,17 +123,17 @@
     
       <item>
         <title>Does the Weather Make our Muscles Stiff? </title>
-        <description>&lt;p&gt;It’s May 16th and the weather in the Kitchener, Waterloo has been miserable. We had a few weeks of warmish weather but now we are right back to cold and rainy. You might ask why a &lt;a href=&quot;http://localhost:4000/&quot;&gt;massage therapist &lt;/a&gt;would care about the weather. It’s been good for business, that’s why I care. Our muscles get tight and stiff, old pains come back to the surface, and new ones come out. When this happens, we need to see our massage therapist.
+        <description>&lt;p&gt;It’s May 16th and the weather in the Kitchener, Waterloo has been miserable. We had a few weeks of warmish weather but now we are right back to cold and rainy. You might ask why a &lt;a href=&quot;https://www.kwmassage.com/&quot;&gt;massage therapist &lt;/a&gt;would care about the weather. It’s been good for business, that’s why I care. Our muscles get tight and stiff, old pains come back to the surface, and new ones come out. When this happens, we need to see our massage therapist.
 
 &lt;/p&gt;
 
-&lt;p&gt;Our body’s main mechanism to create or retain heat is to increase our metabolism (the amount of food energy we burn). Our body does this by contracting our muscles. Notice how your shoulders rise up to your ears when you walk outside on a cold day without your jacket. Your legs, back, neck, shoulders, and all the muscles in your body will do this. This increase in muscle tension will increase stress on your joints, pull your body out of alignment, and create muscle imbalances. With this added stress to your body, many symptoms like&lt;a href=&quot;http://localhost:4000/stretching/stretch-your-upper-trapezius-muscle/index.html&quot;&gt; neck pain&lt;/a&gt;, &lt;a href=&quot;http://localhost:4000/stretching/low-back-pain/index.html&quot;&gt;back pain&lt;/a&gt;, &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;headaches&lt;/a&gt;, and muscle achiness surface.&lt;/p&gt;
+&lt;p&gt;Our body’s main mechanism to create or retain heat is to increase our metabolism (the amount of food energy we burn). Our body does this by contracting our muscles. Notice how your shoulders rise up to your ears when you walk outside on a cold day without your jacket. Your legs, back, neck, shoulders, and all the muscles in your body will do this. This increase in muscle tension will increase stress on your joints, pull your body out of alignment, and create muscle imbalances. With this added stress to your body, many symptoms like&lt;a href=&quot;https://www.kwmassage.com/stretching/stretch-your-upper-trapezius-muscle/index.html&quot;&gt; neck pain&lt;/a&gt;, &lt;a href=&quot;https://www.kwmassage.com/stretching/low-back-pain/index.html&quot;&gt;back pain&lt;/a&gt;, &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;headaches&lt;/a&gt;, and muscle achiness surface.&lt;/p&gt;
 
 &lt;p&gt;Seeing your massage therapist will help decrease this muscle tension and correct your muscle imbalances.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Jul 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/the-weather-does-make-our-muscles-stiff/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/the-weather-does-make-our-muscles-stiff/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/the-weather-does-make-our-muscles-stiff/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/the-weather-does-make-our-muscles-stiff/</guid>
         
         
         <category>generalmassagetherapy</category>
@@ -352,8 +390,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 10 Jul 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/kwmassage-is-moving/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/kwmassage-is-moving/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/kwmassage-is-moving/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/kwmassage-is-moving/</guid>
         
         
         <category>generalmassagetherapy</category>
@@ -365,23 +403,23 @@
         <description>
 </description>
         <pubDate>Wed, 08 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/stretch-your-upper-trapezius-muscle/</link>
-        <guid isPermaLink="true">http://localhost:4000/stretch-your-upper-trapezius-muscle/</guid>
+        <link>https://www.kwmassage.com/stretch-your-upper-trapezius-muscle/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/stretch-your-upper-trapezius-muscle/</guid>
         
         
       </item>
     
       <item>
         <title>Stretch Your Upper Trapezius Muscle</title>
-        <description>&lt;p&gt;To &lt;a href=&quot;http://localhost:4000/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt; your &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;Upper Trapezius Muscle, &lt;/a&gt;begin in a seated position.With your shoulders relaxed and your head in a natural position, carefully bend your neck to bring your right ear toward your right armpit. If more pressure is needed to feel the &lt;a href=&quot;http://localhost:4000/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt;, you can use your right hand to gently pull from the side of your head just above your left ear toward your right armpit.&lt;/p&gt;
+        <description>&lt;p&gt;To &lt;a href=&quot;https://www.kwmassage.com/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt; your &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;Upper Trapezius Muscle, &lt;/a&gt;begin in a seated position.With your shoulders relaxed and your head in a natural position, carefully bend your neck to bring your right ear toward your right armpit. If more pressure is needed to feel the &lt;a href=&quot;https://www.kwmassage.com/stretching/general-guidelines-for-stretching/index.html&quot;&gt;stretch&lt;/a&gt;, you can use your right hand to gently pull from the side of your head just above your left ear toward your right armpit.&lt;/p&gt;
 
 &lt;p&gt;Be careful not to allow your left shoulder to rise, as this will prevent the muscle from lengthening into a stretched position. Repeat on the other side.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://localhost:4000/wp-content/uploads/2014/01/up-trap-stretch-picture.jpg&quot;&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;Stretch Upper Trapizius Muscle&quot; src=&quot;http://localhost:4000/wp-content/uploads/2014/01/up-trap-stretch-picture.jpg&quot; width=&quot;195&quot; height=&quot;140&quot; /&gt;&lt;/a&gt;Be sure to review to my &lt;a href=&quot;http://localhost:4000/stretching/general-guidelines-for-stretching/index.html&quot;&gt;General Guidelines for stretching &lt;/a&gt;before doing any of the stretches I demonstrate and recommend. It’s always a good idea to see a &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/governance-of-massage-therapy/index.html&quot;&gt;health care professional &lt;/a&gt;before starting a new exercise program.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.kwmassage.com/wp-content/uploads/2014/01/up-trap-stretch-picture.jpg&quot;&gt;&lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;Stretch Upper Trapizius Muscle&quot; src=&quot;https://www.kwmassage.com/wp-content/uploads/2014/01/up-trap-stretch-picture.jpg&quot; width=&quot;195&quot; height=&quot;140&quot; /&gt;&lt;/a&gt;Be sure to review to my &lt;a href=&quot;https://www.kwmassage.com/stretching/general-guidelines-for-stretching/index.html&quot;&gt;General Guidelines for stretching &lt;/a&gt;before doing any of the stretches I demonstrate and recommend. It’s always a good idea to see a &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/governance-of-massage-therapy/index.html&quot;&gt;health care professional &lt;/a&gt;before starting a new exercise program.&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Jun 2016 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/stretching/stretch-your-upper-trapezius-muscle-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/stretching/stretch-your-upper-trapezius-muscle-2/</guid>
+        <link>https://www.kwmassage.com/stretching/stretch-your-upper-trapezius-muscle-2/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/stretching/stretch-your-upper-trapezius-muscle-2/</guid>
         
         
         <category>stretching</category>
@@ -390,21 +428,21 @@
     
       <item>
         <title>Stretch Your Levator Scapula </title>
-        <description>&lt;p&gt;The Levator Scapula muscle runs from the top tip of the shoulder blade up to the top four joints of the neck.  The Levator Scapula muscle lifts the shoulder blade and helps control side-to-side movement of the head. A &lt;a title=&quot;Trigger Points and Trigger Point Therapy&quot; href=&quot;http://localhost:4000/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html&quot;&gt;Trigger Point&lt;/a&gt; in the Levator Scapula muscle can cause pain behind the head and to the back of the neck.
+        <description>&lt;p&gt;The Levator Scapula muscle runs from the top tip of the shoulder blade up to the top four joints of the neck.  The Levator Scapula muscle lifts the shoulder blade and helps control side-to-side movement of the head. A &lt;a title=&quot;Trigger Points and Trigger Point Therapy&quot; href=&quot;https://www.kwmassage.com/generalmassagetherapy/trigger-points-and-trigger-point-therapy/index.html&quot;&gt;Trigger Point&lt;/a&gt; in the Levator Scapula muscle can cause pain behind the head and to the back of the neck.
 
 &lt;/p&gt;
 
-&lt;p&gt;To stretch your &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;Levator Scapula &lt;/a&gt;muscle, begin in a seated position. &lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;Sretch Levaor Scapula Muscle&quot; src=&quot;http://localhost:4000/wp-content/uploads/2014/01/levator-stretch-pic.jpg&quot; width=&quot;191&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To stretch your &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/tension-headaches-3/index.html&quot;&gt;Levator Scapula &lt;/a&gt;muscle, begin in a seated position. &lt;img class=&quot;fleft rightmargin-sm leftmargin-sm&quot; alt=&quot;Sretch Levaor Scapula Muscle&quot; src=&quot;https://www.kwmassage.com/wp-content/uploads/2014/01/levator-stretch-pic.jpg&quot; width=&quot;191&quot; height=&quot;120&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;With your shoulders relaxed and your head in a natural position, carefully tuck your chin towards your right armpit. If more pressure is needed to feel the stretch, you can use your right hand to gently pull from the top of your head toward the right armpit.&lt;/p&gt;
 
 &lt;p&gt;Be sure not to allow your left shoulder to rise, as this will prevent the muscle from lengthening in to a stretched position. Repeat on the other side.&lt;/p&gt;
 
-&lt;p&gt;Be sure to review to my &lt;a href=&quot;http://localhost:4000/stretching/general-guidelines-for-stretching/index.html&quot;&gt;General Guidelines for stretching &lt;/a&gt;before doing any of the stretches I demonstrate and recommend. It’s always a good idea to see a &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/governance-of-massage-therapy/index.html&quot;&gt;health care professional &lt;/a&gt;before starting a new exercise program.&lt;/p&gt;
+&lt;p&gt;Be sure to review to my &lt;a href=&quot;https://www.kwmassage.com/stretching/general-guidelines-for-stretching/index.html&quot;&gt;General Guidelines for stretching &lt;/a&gt;before doing any of the stretches I demonstrate and recommend. It’s always a good idea to see a &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/governance-of-massage-therapy/index.html&quot;&gt;health care professional &lt;/a&gt;before starting a new exercise program.&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 May 2016 12:15:24 -0400</pubDate>
-        <link>http://localhost:4000/stretching/stretch-your-levator-scapula-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/stretching/stretch-your-levator-scapula-2/</guid>
+        <link>https://www.kwmassage.com/stretching/stretch-your-levator-scapula-2/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/stretching/stretch-your-levator-scapula-2/</guid>
         
         
         <category>stretching</category>
@@ -413,47 +451,22 @@
     
       <item>
         <title>Massage Therapists in Kitchener and Waterloo </title>
-        <description>&lt;p&gt;You might have noticed that there are over 300 &lt;a href=&quot;https://www.google.ca/maps/place/Kitchener+Massage+Therapy/@43.4607924,-80.4512195,17z/data=!3m1!4b1!4m5!3m4!1s0x882bf4946918d4f9:0x3b65b74844c27bd2!8m2!3d43.4607924!4d-80.4490308&quot; target=&quot;_blank&quot;&gt;Registered Massage Therapists &lt;/a&gt;in the Kitchener- Waterloo area. This is due mainly to the fact that one of the major massage therapy schools, the &lt;a href=&quot;https://www.collegeofmassage.com/cambridge/&quot;&gt;Canadian College of Massage and Hydrotherapy &lt;/a&gt;is located in Kitchener. This high volume of massage therapists means higher competition between massage therapists. It also means higher levels of service for you, the massage therapy client. &lt;a href=&quot;http://localhost:4000/about/index.html&quot;&gt;Your massage therapist &lt;/a&gt;needs to be good to stand out and attract clients.
+        <description>&lt;p&gt;You might have noticed that there are over 300 &lt;a href=&quot;https://www.google.ca/maps/place/Kitchener+Massage+Therapy/@43.4607924,-80.4512195,17z/data=!3m1!4b1!4m5!3m4!1s0x882bf4946918d4f9:0x3b65b74844c27bd2!8m2!3d43.4607924!4d-80.4490308&quot; target=&quot;_blank&quot;&gt;Registered Massage Therapists &lt;/a&gt;in the Kitchener- Waterloo area. This is due mainly to the fact that one of the major massage therapy schools, the &lt;a href=&quot;https://www.collegeofmassage.com/cambridge/&quot;&gt;Canadian College of Massage and Hydrotherapy &lt;/a&gt;is located in Kitchener. This high volume of massage therapists means higher competition between massage therapists. It also means higher levels of service for you, the massage therapy client. &lt;a href=&quot;https://www.kwmassage.com/about/index.html&quot;&gt;Your massage therapist &lt;/a&gt;needs to be good to stand out and attract clients.
 
 &lt;/p&gt;
 
 &lt;p&gt;With so many registered Massage Therapists in Kitchener-Waterloo, there is no reason you shouldn’t be 100% happy with yours. Don’t be discouraged and don’t feel obligated to rebook or go back if you’re not happy with your new massage therapist. When you are happy, your therapist will appreciate the loyalty.&lt;/p&gt;
 
-&lt;p&gt;There are many therapists trying to set themselves apart from the others by learning and using new styles of &lt;a href=&quot;http://localhost:4000/clinic-information/index.html&quot;&gt;massage therapy&lt;/a&gt;. There are a lot of styles available for a massage therapist to learn, some of these more effective than others. Don’t be surprised to find your new massage therapist practicing a technique you weren’t expecting. This is fine; for every massage therapy client there is a massage therapist and a different style of massage.&lt;/p&gt;
+&lt;p&gt;There are many therapists trying to set themselves apart from the others by learning and using new styles of &lt;a href=&quot;https://www.kwmassage.com/clinic-information/index.html&quot;&gt;massage therapy&lt;/a&gt;. There are a lot of styles available for a massage therapist to learn, some of these more effective than others. Don’t be surprised to find your new massage therapist practicing a technique you weren’t expecting. This is fine; for every massage therapy client there is a massage therapist and a different style of massage.&lt;/p&gt;
 
-&lt;p&gt;Since there are over 300 massage therapist in Kitchener and Waterloo, &lt;a href=&quot;http://localhost:4000/contact&quot;&gt;don’t be afraid to try a new one&lt;/a&gt;. Do your research, check out massage therapists online, read reviews on &lt;a href=&quot;https://www.yelp.ca/biz/kitchener-massage-therapy-kitchener&quot;&gt;Yelp&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/profile/edit?trk=hb_tab_pro_top&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/pages/KWmassage/354131367967709&quot;&gt;FaceBook&lt;/a&gt; and &lt;a href=&quot;https://maps.google.ca/maps/place?rlz=1I7DDCA_en&amp;amp;oe=UTF-8&amp;amp;redir_esc=&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;q=kitchener+massage+therapy&amp;amp;fb=1&amp;amp;gl=ca&amp;amp;hq=massage+therapy&amp;amp;hnear=Kitchener,+ON&amp;amp;cid=4280028541904649170&amp;amp;ei=R2DATcqiM4WltwfcjeWxBQ&amp;amp;sa=X&amp;amp;oi=local_result&amp;amp;ct=map-marker-link&amp;amp;resnum=1&amp;amp;ved=0CEAQrwswAA&quot;&gt;Google Places&lt;/a&gt;, call around and ask &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/what-is-deep-tissue-massage&quot;&gt;what type of massage &lt;/a&gt;a potential therapist offers. See if they have experience dealing with what you need help with most. Personality also goes a long way, though I think you will find most massage therapist are easy to get along with.&lt;/p&gt;
+&lt;p&gt;Since there are over 300 massage therapist in Kitchener and Waterloo, &lt;a href=&quot;https://www.kwmassage.com/contact&quot;&gt;don’t be afraid to try a new one&lt;/a&gt;. Do your research, check out massage therapists online, read reviews on &lt;a href=&quot;https://www.yelp.ca/biz/kitchener-massage-therapy-kitchener&quot;&gt;Yelp&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/profile/edit?trk=hb_tab_pro_top&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/pages/KWmassage/354131367967709&quot;&gt;FaceBook&lt;/a&gt; and &lt;a href=&quot;https://maps.google.ca/maps/place?rlz=1I7DDCA_en&amp;amp;oe=UTF-8&amp;amp;redir_esc=&amp;amp;um=1&amp;amp;ie=UTF-8&amp;amp;q=kitchener+massage+therapy&amp;amp;fb=1&amp;amp;gl=ca&amp;amp;hq=massage+therapy&amp;amp;hnear=Kitchener,+ON&amp;amp;cid=4280028541904649170&amp;amp;ei=R2DATcqiM4WltwfcjeWxBQ&amp;amp;sa=X&amp;amp;oi=local_result&amp;amp;ct=map-marker-link&amp;amp;resnum=1&amp;amp;ved=0CEAQrwswAA&quot;&gt;Google Places&lt;/a&gt;, call around and ask &lt;a href=&quot;https://www.kwmassage.com/generalmassagetherapy/what-is-deep-tissue-massage&quot;&gt;what type of massage &lt;/a&gt;a potential therapist offers. See if they have experience dealing with what you need help with most. Personality also goes a long way, though I think you will find most massage therapist are easy to get along with.&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Mar 2016 11:19:19 -0400</pubDate>
-        <link>http://localhost:4000/generalmassagetherapy/massage-therapist-in-kitchener-waterloo/</link>
-        <guid isPermaLink="true">http://localhost:4000/generalmassagetherapy/massage-therapist-in-kitchener-waterloo/</guid>
+        <link>https://www.kwmassage.com/generalmassagetherapy/massage-therapist-in-kitchener-waterloo/</link>
+        <guid isPermaLink="true">https://www.kwmassage.com/generalmassagetherapy/massage-therapist-in-kitchener-waterloo/</guid>
         
         
         <category>generalmassagetherapy</category>
-        
-      </item>
-    
-      <item>
-        <title>How to Stretch Your Rhomboids </title>
-        <description>&lt;p&gt;Your Rhomboids are muscles in between your shoulder blades. They often get sore and stiff from working at a computer with poor posture. If you need to stretch your Rhomboids, be sure to stretch your pectoral muscles as well.
-
-&lt;/p&gt;
-
-&lt;p&gt;If you are getting pain in your upper back, please see your &lt;a href=&quot;http://localhost:4000/about/index.html&quot;&gt;local massage therapist&lt;/a&gt; or other healthcare professional.&lt;/p&gt;
-
-&lt;p&gt;Be sure to review to my &lt;a href=&quot;http://localhost:4000/stretching/general-guidelines-for-stretching/index.html&quot;&gt;General Guidelines for stretching&lt;/a&gt; before doing any of the stretches I demonstrate and recommend. It’s always a good idea to see a &lt;a href=&quot;http://localhost:4000/generalmassagetherapy/governance-of-massage-therapy/index.html&quot;&gt;health care professional&lt;/a&gt; before starting a new exercise program.&lt;/p&gt;
-
-&lt;div class=&quot;entry-image&quot;&gt;
-	&lt;a href=&quot;https://www.youtube.com/watch?v=W67Z13XT-50&quot; data-lightbox=&quot;iframe&quot;&gt;
-	&lt;img src=&quot;https://img.youtube.com/vi/W67Z13XT-50/0.jpg&quot; frameborder=&quot;0&quot; /&gt;
-	&lt;/a&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 16 Feb 2016 10:24:08 -0500</pubDate>
-        <link>http://localhost:4000/stretching/how-to-stretch-you-rhomboids/</link>
-        <guid isPermaLink="true">http://localhost:4000/stretching/how-to-stretch-you-rhomboids/</guid>
-        
-        
-        <category>stretching</category>
         
       </item>
     

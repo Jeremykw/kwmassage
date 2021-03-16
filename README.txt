@@ -20,7 +20,7 @@ Deployment - Production
 * build production site: 	bundle exec jekyll build --config _config_production.yml 
 
 * Minify:					change const SITE to '_site_production', gulp min
-* Compress:					cd .../rails_dev/, tar -zcvf kwmassage_2020_06_15.tar.gz kwmassage/_site_production
+* Compress:					cd .../rails_dev/, tar -zcvf kwmassage_11_03_2021.tar.gz kwmassage/_site_production
 
 
 
